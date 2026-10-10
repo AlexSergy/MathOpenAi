@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="25 готовых стартапов и B2B SaaS на базе математических прорывов OpenAI Math: стек MVP за 2-4 недели, монетизация и стратегия первых продаж.">
+  <title>25 коммерческих SaaS-проектов на чистой математике · OpenAI Math Atlas</title>
+  <link rel="stylesheet" href="assets/styles.css">
+  <link rel="stylesheet" href="assets/projects.css">
+  <script src="assets/common.js" defer></script>
+  <script src="assets/projects-data.js" defer></script>
+  <script src="assets/projects.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">К содержанию</a>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="index.html">
+        <span class="brand-mark" aria-hidden="true">∑</span> МАТЕМАТИЧЕСКИЙ АТЛАС
+      </a>
+      <nav class="site-nav" aria-label="Основная навигация">
+        <a href="index.html">Главная и реестр</a>
+        <a href="human.html">Объяснения на пальцах</a>
+        <a href="projects.html" aria-current="page">Проекты (SaaS)</a>
+        <a href="verification.html">Ограничения</a>
+        <a href="sources.html">Источники</a>
+      </nav>
+      <button type="button" id="motion-toggle" class="motion-button" aria-pressed="false">Уменьшить движение</button>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="projects-hero">
+      <span class="eyebrow">B2B SaaS · DeepTech · Алгоритмические движки «с нуля»</span>
+      <h1>25 готовых SaaS-проектов на чистой математике</h1>
+      <p class="lead">
+        Мы перевели все 719 научных рукописей OpenAI Math на человеческий язык. Теперь мы превратили эти абстрактные доказательства в практические бизнес-проекты: конкретные боли корпоративных клиентов на миллионы долларов, технологический стек MVP для небольшой команды за 2–4 недели, тарифная сетка и математический ров (moat), который невозможно скопировать наивными эвристиками или LLM.
+      </p>
+
+      <div class="projects-metrics-bar">
+        <div class="p-metric">
+          <strong>25</strong>
+          <span>Готовых стартап-планов</span>
+        </div>
+        <div class="p-metric">
+          <strong>5</strong>
+          <span>Индустриальных вертикалей</span>
+        </div>
+        <div class="p-metric">
+          <strong>2–4 нед.</strong>
+          <span>Срок разработки первого MVP</span>
+        </div>
+        <div class="p-metric">
+          <strong>100%</strong>
+          <span>Прямая связь с рукописями</span>
+        </div>
+      </div>
+    </section>
+
+    <div class="notice neutral">
+      <strong>В чём суть математического рва (Moat):</strong> Стандартные SaaS-решения часто используют грубые эвристики или тяжелые нейросети, которые галлюцинируют, экспоненциально замедляются или застревают в локальных оптимумах. Доказанные математические теоремы (оценки сложности, дерандомизация памяти, непериодические упаковки, квазиполиномиальные алгоритмы) дают <em>строгие гарантии производительности</em>, позволяя создавать сверхбыстрые продукты, обгоняющие гигантов индустрии.
+    </div>
+
+    <!-- Category Tabs -->
+    <div class="projects-categories" id="category-tabs" role="tablist" aria-label="Категории проектов">
+      <!-- Generated dynamically by projects.js -->
+    </div>
+
+    <!-- Filter & Search Controls -->
+    <div class="projects-controls">
+      <div class="search-field">
+        <span class="search-icon" aria-hidden="true">🔍</span>
+        <input id="project-search" type="search" placeholder="Поиск по названию, боли рынка, стеку (Triton, Rust, CUDA...) или математике [нажмите /]">
+      </div>
+
+      <div class="timeline-filter">
+        <select id="timeline-filter" aria-label="Срок MVP">
+          <option value="all">Все сроки MVP</option>
+          <option value="2">Быстрый запуск (≤ 2 недель)</option>
+          <option value="3">Средний спринт (3 недели)</option>
+          <option value="4">Глубокий MVP (4 недели)</option>
+        </select>
+      </div>
+
+      <a class="button secondary btn-export" href="notes/projects.json" download="projects.json">
+        Скачать JSON проектов ↓
+      </a>
+    </div>
+
+    <!-- Projects Status Bar -->
+    <div class="projects-status-bar">
+      <div id="projects-count" aria-live="polite">Загрузка проектов...</div>
+      <div>
+        <a href="human.html" style="font-weight:600;text-decoration:none;">Перейти к объяснениям рукописей на пальцах →</a>
+      </div>
+    </div>
+
+    <!-- Projects Grid -->
+    <section class="projects-grid" id="projects-grid">
+      <!-- Rendered dynamically by projects.js -->
+    </section>
+
+    <noscript>
+      <div class="notice">
+        <strong>Внимание:</strong> Для динамического поиска и интерактивных фильтров требуется JavaScript. Полные спецификации всех 25 проектов доступны в файле <a href="notes/projects.json">notes/projects.json</a>.
+      </div>
+    </noscript>
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      Все проекты разработаны на основе 719 рукописей репозитория OpenAI Math. Интеллектуальный ров базируется на доказанных теоремах, проверенных в каталоге атласа.
+    </p>
+    <div>
+      <a href="index.html">Реестр</a>
+      <a href="human.html">Объяснения на пальцах</a>
+      <a href="verification.html">Ограничения</a>
+      <a href="sources.html">Источники</a>
+    </div>
+  </footer>
+</body>
+</html>

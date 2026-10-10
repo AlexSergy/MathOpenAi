@@ -1,0 +1,15 @@
+{
+  "id": "128-01",
+  "group": "128",
+  "title": "A Polynomial-Time 2-Approximation for Shortest Common Superstring",
+  "pdf": "preprints/A-Polynomial-Time-2-Approximation-for-Shortest-Common-Superstring-September-24-2026/paper.pdf",
+  "folder": "preprints/A-Polynomial-Time-2-Approximation-for-Shortest-Common-Superstring-September-24-2026",
+  "abstract_original": "We give a deterministic algorithm that, for every finite family of explicitly represented ordinary strings, outputs a common superstring of length at most twice the optimum in time polynomial in the total encoded input size, including symbol labels. The guarantee applies to the algorithm constructed here, not the classical maximum-overlap Greedy procedure.",
+  "archive": "math_research_07_of_08.zip",
+  "exists": true,
+  "source_line": 3093,
+  "coverage": "catalog_only",
+  "pages": 19,
+  "sha256": "45ef658ae322212b4c83626fd2bfa0ad8e459f6564b4bd0395e0c9ee8eb30dfe",
+  "bundled_pdf": "sources/papers/128-01/paper.pdf"
+}

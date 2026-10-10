@@ -1,0 +1,19 @@
+# Raw upstream datasets and heavy PDF/Lean dumps (3.7 GB)
+math/
+research_upload/
+
+# Backup and temp files
+*.bak
+*.swp
+*~
+.DS_Store
+__pycache__/
+*.pyc
+
+# Local zip packages
+*.zip
+*.tar.gz
+*.7z
+
+# Local cache
+.cache/

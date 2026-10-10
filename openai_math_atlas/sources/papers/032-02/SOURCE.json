@@ -1,0 +1,15 @@
+{
+  "id": "032-02",
+  "group": "032",
+  "title": "Algebraic Kuga–Satake correspondences and Hodge conjectures on a K3 quadratic locus",
+  "pdf": "preprints/Algebraic-Kuga-Satake-correspondences-and-Hodge-conjectures-on-a-K3-quadratic-locus-September-30-2026/paper.pdf",
+  "folder": "preprints/Algebraic-Kuga-Satake-correspondences-and-Hodge-conjectures-on-a-K3-quadratic-locus-September-30-2026",
+  "abstract_original": "We prove the rational Hodge and generalized Hodge conjectures in every cohomological degree of every self-power of a projective complex K3 surface whose transcendental quadratic space, with its cup-product form, admits a rational isometric embedding in $`\\mathbb U_{\\mathbb Q}^{\\oplus2}\\perp\\langle-1\\rangle^4`$. This includes every ample P -polarized K3 surface, including all Picard jumps, for $`P=\\mathbb U\\oplus D_8(-1)\\oplus D_4(-1)`$. On this locus we construct algebraic correspondences inducing every prescribed standard even-Clifford Kuga–Satake tensor. More generally, for any projective complex K3 surface, algebraicity of one exact standard even-Clifford Kuga–Satake tensor implies both conjectures for every self-power.",
+  "archive": "math_research_01_of_08.zip",
+  "exists": true,
+  "source_line": 771,
+  "coverage": "catalog_only",
+  "pages": 63,
+  "sha256": "c9fde2b758f255059c3aa153c73971330b18ed67ddd24d3272a1c793cc16dffd",
+  "bundled_pdf": "sources/papers/032-02/paper.pdf"
+}

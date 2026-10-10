@@ -1,0 +1,44 @@
+[
+  {
+    "from": "032",
+    "to": "001",
+    "type": "catalog_explicit_dependency",
+    "source": "context/CONTENTS.md: family 001",
+    "checked": "catalog only"
+  },
+  {
+    "from": "006",
+    "to": "002",
+    "type": "catalog_explicit_dependency",
+    "source": "context/CONTENTS.md: family 002",
+    "checked": "catalog only"
+  },
+  {
+    "from": "110-01",
+    "to": "110-02",
+    "type": "existence_to_computation",
+    "source": "110-02 PDF p1",
+    "checked": "introduction"
+  },
+  {
+    "from": "113-01",
+    "to": "131-host-extension-discussion",
+    "type": "cited_extension_not_main_theorem_dependency",
+    "source": "131-01 PDF pp2-3, reference 22, Corollary 10.1",
+    "checked": "introduction"
+  },
+  {
+    "from": "withdrawn-Weil-eightfolds",
+    "to": "withdrawn-Kuga-Satake-K3",
+    "type": "invalidated_construction",
+    "source": "withdrawal README and history 2026-10-07",
+    "checked": "notice read"
+  },
+  {
+    "from": "withdrawn-Weil-eightfolds",
+    "to": "withdrawn-Hodge-products-K3",
+    "type": "invalidated_construction",
+    "source": "withdrawal README and history 2026-10-07",
+    "checked": "notice read"
+  }
+]

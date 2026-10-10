@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Объяснения на пальцах — OpenAI Math Atlas</title>
+  <link rel="stylesheet" href="assets/styles.css">
+  <link rel="stylesheet" href="assets/human.css">
+  <script src="assets/data.js" defer></script>
+  <script src="assets/human-data.js" defer></script>
+  <script src="assets/human.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">К содержанию</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="index.html">∑ МАТЕМАТИКА ДЛЯ ЛЮДЕЙ</a>
+      <nav class="site-nav">
+        <a href="index.html">Главная и реестр</a>
+        <a href="human.html" class="active">Объяснения на пальцах</a>
+        <a href="projects.html">Проекты</a>
+        <a href="verification.html">Ограничения</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="page-heading">
+      <span class="eyebrow" id="human-eyebrow">Математика простыми словами</span>
+      <h1>Сначала смысл.<br>Потом формулы.</h1>
+      <p class="lead">Разборы 719 рукописей и 372 тематических групп для людей без математической подготовки: вопрос, пример на пальцах, новизна, выхлоп, применения, ограничения и первый шаг.</p>
+    </section>
+
+    <aside class="notice">
+      <strong>Честный статус:</strong> «авторы заявляют» не означает «независимо подтверждено». Разборы опираются на введения, аннотации и формулировки основных теорем конкретных рукописей; полные 100-страничные доказательства независимой проверке здесь не подвергались.
+    </aside>
+
+    <div class="human-mode-tabs" role="tablist" aria-label="Режим отображения">
+      <button type="button" id="tab-works" class="mode-tab active" role="tab" aria-selected="true">По отдельным рукописям</button>
+      <button type="button" id="tab-groups" class="mode-tab" role="tab" aria-selected="false">По семействам (группам)</button>
+    </div>
+
+    <div class="human-controls">
+      <label>Найти знакомую задачу или термин
+        <input id="human-search" type="search" placeholder="Эллиптические кривые, умножение, память, k-сервер, геном…">
+      </label>
+      <label>Тематическая область
+        <select id="human-topic">
+          <option value="all">Все области</option>
+        </select>
+      </label>
+    </div>
+
+    <div class="human-status-bar">
+      <p id="human-count" aria-live="polite"></p>
+      <div class="human-pagination" id="human-pagination">
+        <button id="human-prev" type="button" class="btn-page">← Назад</button>
+        <span id="human-page-info">1 / 1</span>
+        <button id="human-next" type="button" class="btn-page">Вперёд →</button>
+      </div>
+    </div>
+
+    <section id="human-grid" class="human-grid"></section>
+
+    <noscript>
+      <p>Карточки требуют JavaScript. Текст доступен в <a href="notes/work_explanations.json">JSON рукописей</a> и <a href="notes/human_explanations.json">JSON групп</a>.</p>
+    </noscript>
+  </main>
+
+  <footer class="site-footer">
+    <p>Интуиция помогает понять задачу, но не заменяет строгое доказательство.</p>
+    <a href="index.html?mode=all#catalog">Полный технический каталог и источники →</a>
+  </footer>
+</body>
+</html>

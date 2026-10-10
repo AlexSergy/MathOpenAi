@@ -1,0 +1,273 @@
+{
+  "description": "Own finite checks, no uploaded scripts executed. No general theorem validated.",
+  "switch": {
+    "states": 70,
+    "row_sum_integer": 180,
+    "symmetric": true,
+    "triangles_uniform_mean": 0.2857142857142857,
+    "spectral_gap": 0.038645768535607194,
+    "tv_start0": {
+      "0": 0.9857142857142855,
+      "1": 0.9190476190476188,
+      "10": 0.7011417644589787,
+      "25": 0.42019567801529656,
+      "50": 0.15229306521092809,
+      "100": 0.023043386575183022,
+      "200": 0.0004618271757478006
+    },
+    "first_step_tv_le_quarter_start0": 38,
+    "theorem_bound": 3359232
+  },
+  "tables": [
+    {
+      "cells": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        0
+      ],
+      "uniform": "1/7",
+      "conditional_independence": "1/10"
+    },
+    {
+      "cells": [
+        0,
+        2,
+        1,
+        2,
+        0,
+        1
+      ],
+      "uniform": "1/7",
+      "conditional_independence": "1/10"
+    },
+    {
+      "cells": [
+        1,
+        0,
+        2,
+        1,
+        2,
+        0
+      ],
+      "uniform": "1/7",
+      "conditional_independence": "1/10"
+    },
+    {
+      "cells": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "uniform": "1/7",
+      "conditional_independence": "2/5"
+    },
+    {
+      "cells": [
+        1,
+        2,
+        0,
+        1,
+        0,
+        2
+      ],
+      "uniform": "1/7",
+      "conditional_independence": "1/10"
+    },
+    {
+      "cells": [
+        2,
+        0,
+        1,
+        0,
+        2,
+        1
+      ],
+      "uniform": "1/7",
+      "conditional_independence": "1/10"
+    },
+    {
+      "cells": [
+        2,
+        1,
+        0,
+        0,
+        1,
+        2
+      ],
+      "uniform": "1/7",
+      "conditional_independence": "1/10"
+    }
+  ],
+  "schedule": {
+    "n": 10,
+    "edges": [
+      [
+        0,
+        8
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        9
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        8
+      ]
+    ],
+    "exact": [
+      [
+        3
+      ],
+      [
+        0,
+        2,
+        6
+      ],
+      [
+        1,
+        4,
+        7
+      ],
+      [
+        5,
+        8,
+        9
+      ]
+    ],
+    "greedy": [
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        3,
+        5,
+        9
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        7
+      ],
+      [
+        8
+      ]
+    ]
+  },
+  "superstring": {
+    "input": [
+      "ATGCATC",
+      "CATGC",
+      "CTAAGT",
+      "GCTA",
+      "TTCA"
+    ],
+    "exact": "GCTAAGTTCATGCATC",
+    "greedy": "GCTAAGTTCATGCATC",
+    "ratio": 1.0
+  },
+  "crouzeix": [
+    {
+      "a": 0,
+      "b": 0,
+      "norm": 0.0,
+      "bound": 0.0
+    },
+    {
+      "a": 0,
+      "b": 0.3,
+      "norm": 0.3,
+      "bound": 0.6
+    },
+    {
+      "a": 0,
+      "b": 2,
+      "norm": 2.0,
+      "bound": 4.0
+    },
+    {
+      "a": 0.2,
+      "b": 0,
+      "norm": 0.2,
+      "bound": 0.2
+    },
+    {
+      "a": 0.2,
+      "b": 0.3,
+      "norm": 0.416227766016838,
+      "bound": 0.8
+    },
+    {
+      "a": 0.2,
+      "b": 2,
+      "norm": 2.1024984394500787,
+      "bound": 4.2
+    },
+    {
+      "a": 1,
+      "b": 0,
+      "norm": 1.0,
+      "bound": 1.0
+    },
+    {
+      "a": 1,
+      "b": 0.3,
+      "norm": 1.08309518948453,
+      "bound": 1.6
+    },
+    {
+      "a": 1,
+      "b": 2,
+      "norm": 2.5615528128088303,
+      "bound": 5.0
+    },
+    {
+      "a": 3,
+      "b": 0,
+      "norm": 3.0,
+      "bound": 3.0
+    },
+    {
+      "a": 3,
+      "b": 0.3,
+      "norm": 3.029705854077836,
+      "bound": 3.6
+    },
+    {
+      "a": 3,
+      "b": 2,
+      "norm": 4.000000000000001,
+      "bound": 7.0
+    }
+  ],
+  "asymptotic_excess_at_n_2power64": 6.784494591432586e-55
+}

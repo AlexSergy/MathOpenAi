@@ -1,0 +1,15 @@
+{
+  "id": "087-01",
+  "group": "087",
+  "title": "The symmetric Mahler conjecture and its equality cases",
+  "pdf": "preprints/The-symmetric-Mahler-conjecture-and-its-equality-cases-September-22-2026/paper.pdf",
+  "folder": "preprints/The-symmetric-Mahler-conjecture-and-its-equality-cases-September-22-2026",
+  "abstract_original": "We resolve the symmetric Mahler conjecture positively, including its equality classification. Every origin-symmetric convex body in ℝ n has volume product at least $`4^n/n!`$, with equality exactly for invertible linear images of Hanner polytopes.",
+  "archive": "math_research_02_of_08.zip",
+  "exists": true,
+  "source_line": 2134,
+  "coverage": "catalog_only",
+  "pages": 26,
+  "sha256": "0560a02b890de6637a1e007f2d438e8dec93575b4e12a66a6313511348ddd6a6",
+  "bundled_pdf": "sources/papers/087-01/paper.pdf"
+}

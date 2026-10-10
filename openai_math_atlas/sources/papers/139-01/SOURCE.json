@@ -1,0 +1,15 @@
+{
+  "id": "139-01",
+  "group": "139",
+  "title": "Subpolynomial query complexity for well-conditioned log-concave sampling",
+  "pdf": "preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/article.pdf",
+  "folder": "preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026",
+  "abstract_original": "For every fixed ε > 0, we give a sampling algorithm using at most $`C_\\varepsilon d^\\varepsilon`$ exact first-order queries on every execution for C 2 potentials on ℝ d with a known minimizer and Hessian between I d and $`2I_d`$. The output has total-variation distance at most 1/10 from the target Gibbs law. Computation between queries is unrestricted. We also prove an $`\\Omega(\\log d)`$ query lower bound for arbitrary randomized adaptive algorithms, determining the optimal dimension exponent to be zero.",
+  "archive": "math_research_07_of_08.zip",
+  "exists": true,
+  "source_line": 3341,
+  "coverage": "catalog_only",
+  "pages": 55,
+  "sha256": "9e9a41553023f95e18b673f130c2086def56ba2b7a4cd851337a39eb114bf679",
+  "bundled_pdf": "sources/papers/139-01/article.pdf"
+}

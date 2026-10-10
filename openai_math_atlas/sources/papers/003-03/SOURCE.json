@@ -1,0 +1,15 @@
+{
+  "id": "003-03",
+  "group": "003",
+  "title": "Uniform exclusion of Landau–Siegel zeros",
+  "pdf": "preprints/Uniform-exclusion-of-Landau-Siegel-zeros-October-1-2026/paper.pdf",
+  "folder": "preprints/Uniform-exclusion-of-Landau-Siegel-zeros-October-1-2026",
+  "abstract_original": "We prove the uniform exclusion of Landau–Siegel zeros. There is an absolute constant c > 0 such that every real zero $`\\beta\\in(0,1)`$ of every primitive nonprincipal real Dirichlet L -function of conductor q ≥ 3 satisfies $`(1-\\beta)\\log q\\ge c`$.",
+  "archive": "math_research_04_of_08.zip",
+  "exists": true,
+  "source_line": 91,
+  "coverage": "catalog_only",
+  "pages": 9,
+  "sha256": "fab9f6e84ece2a37d834b2c031d8eb14e81413d9f6270791e7b5468b295214ef",
+  "bundled_pdf": "sources/papers/003-03/paper.pdf"
+}

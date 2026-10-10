@@ -1,0 +1,15 @@
+{
+  "id": "087-03",
+  "group": "087",
+  "title": "Symplectic Balls in Symmetric Polar Products",
+  "pdf": "preprints/Symplectic-Balls-in-Symmetric-Polar-Products-September-22-2026/paper.pdf",
+  "folder": "preprints/Symplectic-Balls-in-Symmetric-Polar-Products-September-22-2026",
+  "abstract_original": "For every integer n ≥ 2 and every origin-symmetric convex body $`K\\subset\\mathbb R^n`$, we prove that the Gromov width of $`\\mathop{\\mathrm{int}}\\nolimits K\\times\\mathop{\\mathrm{int}}\\nolimits K^\\circ`$ is 4. We construct smooth symplectic embeddings of standard balls of every capacity $`0\\lt c\\lt 4`$ into this polar product. Volume preservation then resolves the symmetric Mahler conjecture positively in every dimension.",
+  "archive": "math_research_02_of_08.zip",
+  "exists": true,
+  "source_line": 2152,
+  "coverage": "catalog_only",
+  "pages": 19,
+  "sha256": "643930d71faeb8ba5aa5cda35465d20697f2955dce9a91ff729fb3ebd90c76ee",
+  "bundled_pdf": "sources/papers/087-03/paper.pdf"
+}

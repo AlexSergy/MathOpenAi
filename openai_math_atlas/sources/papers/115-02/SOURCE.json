@@ -1,0 +1,15 @@
+{
+  "id": "115-02",
+  "group": "115",
+  "title": "An FPRAS for Cell-Bounded Contingency Tables",
+  "pdf": "preprints/An-FPRAS-for-Cell-Bounded-Contingency-Tables-September-24-2026/main.pdf",
+  "folder": "preprints/An-FPRAS-for-Cell-Bounded-Contingency-Tables-September-24-2026",
+  "abstract_original": "We give a fully polynomial randomized approximation scheme for counting nonnegative integer matrices with prescribed row sums, column sums, and individual entry bounds. Both dimensions vary, all numerical data are encoded in binary, and zero bounds are allowed. The algorithm uses only unbiased random bits and has a polynomial bound on its bit operations on every execution.",
+  "archive": "math_research_07_of_08.zip",
+  "exists": true,
+  "source_line": 2838,
+  "coverage": "catalog_only",
+  "pages": 47,
+  "sha256": "10bad4277d11b9d1c69842fd8e9028c67edb9ebce6092ad6332703975c8fd7e7",
+  "bundled_pdf": "sources/papers/115-02/main.pdf"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "131-01",
+  "group": "131",
+  "title": "Polynomial mixing of the switch chain for every graphical degree sequence",
+  "pdf": "preprints/Polynomial-Mixing-of-the-Switch-Chain-for-Every-Graphical-Degree-Sequence-September-25-2026/main.pdf",
+  "folder": "preprints/Polynomial-Mixing-of-the-Switch-Chain-for-Every-Graphical-Degree-Sequence-September-25-2026",
+  "abstract_original": "We prove the simple-undirected form of the Kannan–Tetali–Vempala conjecture: the switch chain on simple undirected graphs mixes in polynomial time for every graphical degree sequence. For a lazy chain that proposes switches uniformly on four vertices, the total-variation mixing time at distance 1/4 is at most $`2n^8`$. We also give an exactly uniform sampler for every graphical labeled degree vector. It uses unbiased random bits, terminates almost surely, and has expected polynomial bit running time.",
+  "archive": "math_research_07_of_08.zip",
+  "exists": true,
+  "source_line": 3159,
+  "coverage": "catalog_only",
+  "pages": 22,
+  "sha256": "e70eab92c1315e6706eea3613e9826871e009d1ef8de31f82d5750d026240af3",
+  "bundled_pdf": "sources/papers/131-01/main.pdf"
+}

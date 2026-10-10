@@ -1,0 +1,15 @@
+{
+  "id": "003-01",
+  "group": "003",
+  "title": "The Quasi-Riemann Hypothesis: A Zero-Free Half-Plane $`\\Re s\\gt 7/8`$",
+  "pdf": "preprints/The-Quasi-Riemann-Hypothesis-September-30-2026/paper.pdf",
+  "folder": "preprints/The-Quasi-Riemann-Hypothesis-September-30-2026",
+  "abstract_original": "We prove that all finite-order Hecke L -functions over $`\\mathbb Q(\\sqrt{-3})`$ and all Dirichlet L -functions are zero-free in the half-plane $`\\Re s\\gt 7/8`$, with the principal pole at s = 1 allowed. In particular, the Riemann zeta function is zero-free in this half-plane, proving the quasi-Riemann hypothesis.",
+  "archive": "math_research_04_of_08.zip",
+  "exists": true,
+  "source_line": 73,
+  "coverage": "catalog_only",
+  "pages": 199,
+  "sha256": "8fe93046f8cf5ef1ba5969c89addc02d76311adc4ee907509ff9cd96f7ec99e7",
+  "bundled_pdf": "sources/papers/003-01/paper.pdf"
+}

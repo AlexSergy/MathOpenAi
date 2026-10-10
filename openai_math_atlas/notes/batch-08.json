@@ -1,0 +1,1083 @@
+{
+  "archive": {
+    "archive": "math_research_08_of_08.zip",
+    "sha256": "35b27de7b37216e399b06616e9acdeba418151e28855c83fc68b655b78453080",
+    "bytes": 45583084,
+    "crc_ok": true,
+    "files": 1037,
+    "physical_work_folders": 58,
+    "preprint_pdfs": 58,
+    "groups": [
+      "141",
+      "142",
+      "304",
+      "305",
+      "306",
+      "307",
+      "308",
+      "309",
+      "310",
+      "311",
+      "312",
+      "313",
+      "314",
+      "315",
+      "316",
+      "317",
+      "318",
+      "319",
+      "320",
+      "321"
+    ],
+    "current_manuscripts": 28
+  },
+  "reading_policy": "Archive catalog parsed; PDFs opened structurally; only explicit read_detail entries represent actual reading.",
+  "works": [
+    {
+      "id": "141-01",
+      "group": "141",
+      "title": "Existential–universal real sentences in the counting hierarchy",
+      "pdf": "preprints/Existential-universal-real-sentences-in-the-counting-hierarchy-October-4-2026/etr-counting-hierarchy.pdf",
+      "folder": "preprints/Existential-universal-real-sentences-in-the-counting-hierarchy-October-4-2026",
+      "abstract_original": "We prove that the existential theory of the reals lies in the counting hierarchy. More generally, we show that the truth of existential–universal sentences over the reals can be decided in a fixed level of the counting hierarchy, even when the integer polynomials are given by arithmetic circuits.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 3418,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 35,
+      "sha256": "151fe6144a42154d5dd0ebb4f2e9b63641da74177ca7a53d50c829e8784a7c41",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Existential-universal-real-sentences-in-the-counting-hierarchy-October-4-2026/etr-counting-hierarchy.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/Existential-universal-real-sentences-in-the-counting-hierarchy-October-4-2026/etr-counting-hierarchy.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "142-01",
+      "group": "142",
+      "title": "Deterministic Polynomial Factorization over Prime Fields",
+      "pdf": "preprints/Deterministic-Polynomial-Factorization-over-Prime-Fields-October-4-2026/Deterministic-Polynomial-Factorization-over-Prime-Fields.pdf",
+      "folder": "preprints/Deterministic-Polynomial-Factorization-over-Prime-Fields-October-4-2026",
+      "abstract_original": "We give a uniform deterministic polynomial-time algorithm for complete factorization over prime fields. For a prime p in binary and a nonzero polynomial $`f\\in\\mathbf F_p[x]`$ given by its dense coefficient list, the algorithm computes the irreducible factors and their multiplicities using a number of bit operations polynomial in $`(\\deg f+1)\\log p`$. The proof uses the uniform Hecke zero-free theorem from the companion paper *Primitive roots for every admissible integer base*.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 3434,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 48,
+      "sha256": "ed88aa5ba802311a21c4f265bcef43515a16019f4b5afdd7f52ecbd36ce0204d",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Deterministic-Polynomial-Factorization-over-Prime-Fields-October-4-2026/Deterministic-Polynomial-Factorization-over-Prime-Fields.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/Deterministic-Polynomial-Factorization-over-Prime-Fields-October-4-2026/Deterministic-Polynomial-Factorization-over-Prime-Fields.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "304-01",
+      "group": "304",
+      "title": "The Hilbert–Smith conjecture in every finite dimension",
+      "pdf": "preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/paper.pdf",
+      "folder": "preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026",
+      "abstract_original": "We prove the Hilbert–Smith conjecture in every finite dimension: every locally compact second-countable Hausdorff group acting faithfully and jointly continuously on a connected Hausdorff second-countable finite-dimensional topological manifold without boundary is a Lie group.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7519,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 46,
+      "sha256": "e55fa13f40b4c35a98414519ca90d85c17bdd77c9a0b92aa6369eae8046782eb",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/paper.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/paper.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "305-01",
+      "group": "305",
+      "title": "A boundary-only obstruction to four-dimensional disk embedding",
+      "pdf": "preprints/A-boundary-only-obstruction-to-four-dimensional-disk-embedding-September-24-2026/paper.pdf",
+      "folder": "preprints/A-boundary-only-obstruction-to-four-dimensional-disk-embedding-September-24-2026",
+      "abstract_original": "We disprove the four-dimensional disc embedding conjecture without a fundamental-group hypothesis, even when no homotopy classes or output framings are prescribed. We construct a compact oriented smooth four-manifold containing finitely many disc maps with framed algebraic dual spheres whose boundary circles bound no disjoint locally flat discs. Consequently, the free group on two generators is not good in the sense of Freedman–Quinn, and neither is any group containing it as a subgroup.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7535,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 48,
+      "sha256": "cb5bb77f6a673a3d55b707a1f4e4406c6134c2c8cfc3980548c2466919d0ba6d",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/A-boundary-only-obstruction-to-four-dimensional-disk-embedding-September-24-2026/paper.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/A-boundary-only-obstruction-to-four-dimensional-disk-embedding-September-24-2026/paper.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "305-02",
+      "group": "305",
+      "title": "A marked tensor obstruction to four-dimensional disk embedding",
+      "pdf": "preprints/A-marked-tensor-obstruction-to-four-dimensional-disk-embedding-September-24-2026/paper.pdf",
+      "folder": "preprints/A-marked-tensor-obstruction-to-four-dimensional-disk-embedding-September-24-2026",
+      "abstract_original": "We disprove the unrestricted four-dimensional disk-embedding conjecture. We construct immersed disks in a compact oriented smooth four-manifold with framed algebraic dual spheres satisfying the usual equivariant intersection and reduced self-intersection conditions, but with no pairwise disjoint locally flat replacements that preserve the boundary maps and induced normal framings. The obstruction holds even when the replacement disks' relative homotopy classes are not prescribed.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7544,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 53,
+      "sha256": "6453a6d9ab0cf56629cf67b7a90191b6846933691faf1960c9be2fad15e17d28",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/A-marked-tensor-obstruction-to-four-dimensional-disk-embedding-September-24-2026/paper.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/A-marked-tensor-obstruction-to-four-dimensional-disk-embedding-September-24-2026/paper.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "305-03",
+      "group": "305",
+      "title": "A PD4 group without an aspherical manifold model",
+      "pdf": "preprints/A-PD4-group-without-an-aspherical-manifold-model-September-24-2026/paper.pdf",
+      "folder": "preprints/A-PD4-group-without-an-aspherical-manifold-model-September-24-2026",
+      "abstract_original": "We construct a finitely presented integral Poincaré duality group of dimension four that has a finite classifying space but is not the fundamental group of any closed aspherical topological four-manifold. This gives a negative answer to Wall's manifold-realization question in dimension four.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7553,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 32,
+      "sha256": "ccbbf7f15686b6f7ef6e36a633ae5549ec2d9d932560ff4be2b5b9367d2414f7",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/A-PD4-group-without-an-aspherical-manifold-model-September-24-2026/paper.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/A-PD4-group-without-an-aspherical-manifold-model-September-24-2026/paper.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "306-01",
+      "group": "306",
+      "title": "Purely cosmetic surgery on knots in the three-sphere",
+      "pdf": "preprints/Purely-Cosmetic-Surgery-on-Knots-in-the-Three-Sphere-September-23-2026/paper.pdf",
+      "folder": "preprints/Purely-Cosmetic-Surgery-on-Knots-in-the-Three-Sphere-September-23-2026",
+      "abstract_original": "We prove the purely cosmetic surgery conjecture for knots in the three-sphere. Distinct Dehn surgery slopes on a nontrivial smooth knot never give orientation-preservingly homeomorphic manifolds.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7569,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 144,
+      "sha256": "ee916c92b825a8686ddfa5cf1970c320d611899212992da40ca56791bd79fa3d",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Purely-Cosmetic-Surgery-on-Knots-in-the-Three-Sphere-September-23-2026/paper.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/Purely-Cosmetic-Surgery-on-Knots-in-the-Three-Sphere-September-23-2026/paper.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "307-01",
+      "group": "307",
+      "title": "Failure of rational injectivity for maximal coarse assembly",
+      "pdf": "preprints/Failure-of-rational-injectivity-for-maximal-coarse-assembly-October-5-2026/paper.pdf",
+      "folder": "preprints/Failure-of-rational-injectivity-for-maximal-coarse-assembly-October-5-2026",
+      "abstract_original": "We construct a uniformly discrete bounded-geometry space whose maximal coarse assembly map has an infinite-order element in its kernel. The space is a coarse disjoint union of finite connected graphs of uniformly bounded degree, so maximal coarse assembly need not be rationally injective even for such graph unions.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7585,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 24,
+      "sha256": "30556c04280bf9879b341850260f92cdc7ea7d9e9412a995ba47fd08bed05bcf",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Failure-of-rational-injectivity-for-maximal-coarse-assembly-October-5-2026/paper.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/Failure-of-rational-injectivity-for-maximal-coarse-assembly-October-5-2026/paper.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "307-02",
+      "group": "307",
+      "title": "A counterexample to the coarse Novikov conjecture",
+      "pdf": "preprints/A-counterexample-to-the-coarse-Novikov-conjecture-September-23-2026/paper.pdf",
+      "folder": "preprints/A-counterexample-to-the-coarse-Novikov-conjecture-September-23-2026",
+      "abstract_original": "We disprove the coarse Novikov conjecture: ordinary coarse assembly need not be rationally injective for uniformly discrete spaces of bounded geometry. We construct a coarse disjoint union of finite graphs of uniformly bounded degree and an infinite-order class in its degree-one coarse K-homology whose image under ordinary coarse assembly in the K-theory of the reduced, locally compact Roe algebra vanishes.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7594,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 16,
+      "sha256": "785e448758d66154bb5c80341d8267bfa5340e3167bf4dfd90eab4881f94b578",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/A-counterexample-to-the-coarse-Novikov-conjecture-September-23-2026/paper.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/A-counterexample-to-the-coarse-Novikov-conjecture-September-23-2026/paper.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "308-01",
+      "group": "308",
+      "title": "Finite Smith–Toda Complexes at Varying Primes",
+      "pdf": "preprints/Finite-Smith-Toda-Complexes-at-Varying-Primes-September-23-2026/paper.pdf",
+      "folder": "preprints/Finite-Smith-Toda-Complexes-at-Varying-Primes-September-23-2026",
+      "abstract_original": "For every nonnegative integer n , we construct a Smith–Toda complex $`V(n)`$ at some prime p depending on n . It is a finite p -local spectrum whose Brown–Peterson homology is $`\\mathrm{BP}_*/(p,v_1,\\ldots,v_n)`$ with its canonical comodule structure and generator in degree zero. Each listed generator is killed to its first power.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7610,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 54,
+      "sha256": "13dce3978089a78f874724e97692637cd2ae2c665ca3c8fb626cac64c4978b9b",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Finite-Smith-Toda-Complexes-at-Varying-Primes-September-23-2026/paper.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/Finite-Smith-Toda-Complexes-at-Varying-Primes-September-23-2026/paper.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "308-02",
+      "group": "308",
+      "title": "A finite Smith–Toda complex V(4) at the prime 1009",
+      "pdf": "preprints/A-finite-Smith-Toda-complex-V4-at-the-prime-1009-September-23-2026/paper.pdf",
+      "folder": "preprints/A-finite-Smith-Toda-complex-V4-at-the-prime-1009-September-23-2026",
+      "abstract_original": "We construct a Smith–Toda complex $`V(4)`$ at the prime 1009. It is an ordinary finite 1009-local spectrum whose Brown–Peterson homology is $`BP_*/(1009,v_1,v_2,v_3,v_4)`$, with its canonical comodule structure and generator in degree zero.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7619,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 44,
+      "sha256": "a9cf0165a9ea294995b42fac2290fa90a519101e446be81331f7c31726c6d635",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/A-finite-Smith-Toda-complex-V4-at-the-prime-1009-September-23-2026/paper.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/A-finite-Smith-Toda-complex-V4-at-the-prime-1009-September-23-2026/paper.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "309-01",
+      "group": "309",
+      "title": "The Kervaire invariant problem at the prime three",
+      "pdf": "preprints/The-Kervaire-Invariant-Problem-at-the-Prime-Three-September-24-2026/paper.pdf",
+      "folder": "preprints/The-Kervaire-Invariant-Problem-at-the-Prime-Three-September-24-2026",
+      "abstract_original": "We solve the Kervaire invariant problem at the prime three for the standard Kervaire classes in the mod-three Adams spectral sequence. These classes survive precisely at indices 0, 2, and 3, and each surviving detection coset contains an element of additive order three. In particular, there is an order-three Kervaire element in stem 322.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7635,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 90,
+      "sha256": "4b9f1ff903605ffa85ccae2a1426fc5158bcaddca1c5fa2ae3a4f8d3900a5f85",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/The-Kervaire-Invariant-Problem-at-the-Prime-Three-September-24-2026/paper.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/The-Kervaire-Invariant-Problem-at-the-Prime-Three-September-24-2026/paper.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "310-01",
+      "group": "310",
+      "title": "Rational homology and Quillen's conjecture",
+      "pdf": "preprints/Rational-homology-and-Quillens-conjecture-September-24-2026/paper.pdf",
+      "folder": "preprints/Rational-homology-and-Quillens-conjecture-September-24-2026",
+      "abstract_original": "We prove Quillen's conjecture for all finite groups and all primes. More precisely, if a finite group G has trivial largest normal p -subgroup $`O_p(G)`$, then the poset of nontrivial elementary abelian p -subgroups of G has nonzero augmented reduced rational homology. This establishes the stronger rational-homology form of the conjecture.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7651,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 63,
+      "sha256": "62d7903055f1b292b960d3e893a770f3847d3b1b1e171f9124ac770652e06f2b",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Rational-homology-and-Quillens-conjecture-September-24-2026/paper.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/Rational-homology-and-Quillens-conjecture-September-24-2026/paper.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "311-01",
+      "group": "311",
+      "title": "Stabilizer orbits and thick tensor ideals of dualizable K(n)-local spectra",
+      "pdf": "preprints/Stabilizer-Orbits-and-Thick-Tensor-Ideals-of-Dualizable-Kn-Local-Spectra-September-24-2026/paper.pdf",
+      "folder": "preprints/Stabilizer-Orbits-and-Thick-Tensor-Ideals-of-Dualizable-Kn-Local-Spectra-September-24-2026",
+      "abstract_original": "We classify the prime and radical ideals of the Lubin–Tate deformation ring invariant under an open Morava stabilizer subgroup, at every prime and positive height. This proves Chai's invariant-ideal conjecture in the standard finite-residue-field formulation. It also proves the Hovey–Strickland conjecture: the dualizable $`K(n)`$-local category has exactly $`n+2`$ thick tensor ideals, and its Balmer spectrum is a chain of $`n+1`$ points.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7667,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 34,
+      "sha256": "5daea1486344421401eb3b52f6c818af8ab9e980eae34faf67a470221bc05ca3",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Stabilizer-Orbits-and-Thick-Tensor-Ideals-of-Dualizable-Kn-Local-Spectra-September-24-2026/paper.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/Stabilizer-Orbits-and-Thick-Tensor-Ideals-of-Dualizable-Kn-Local-Spectra-September-24-2026/paper.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "312-01",
+      "group": "312",
+      "title": "The Grothendieck homotopy hypothesis via elementary expansions",
+      "pdf": "preprints/The-Grothendieck-homotopy-hypothesis-via-elementary-expansions-September-24-2026/paper.pdf",
+      "folder": "preprints/The-Grothendieck-homotopy-hypothesis-via-elementary-expansions-September-24-2026",
+      "abstract_original": "We prove the Grothendieck homotopy hypothesis for every Grothendieck coherator in the Ara–Henry convention: its weak globular infinity-groupoids recover the homotopy theory of spaces. We also resolve Henry's pushout conjecture, showing that elementary expansions preserve components and all homotopy groups of cellular infinity-groupoids.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7683,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 26,
+      "sha256": "489bb8f5a448c3fc1e9f74e06cbf21d811bb03ec7049bf1dbf30dbf6764984fb",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/The-Grothendieck-homotopy-hypothesis-via-elementary-expansions-September-24-2026/paper.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/The-Grothendieck-homotopy-hypothesis-via-elementary-expansions-September-24-2026/paper.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "313-01",
+      "group": "313",
+      "title": "Finite generation for the K(n)-local sphere",
+      "pdf": "preprints/Finite-generation-for-the-Kn-local-sphere-September-24-2026/Finite-generation-for-the-Kn-local-sphere-September-24-2026.pdf",
+      "folder": "preprints/Finite-generation-for-the-Kn-local-sphere-September-24-2026",
+      "abstract_original": "We prove that the homotopy groups of the $`K(n)`$-local sphere are finitely generated ℤ p -modules in every integer degree, for every prime p and positive height n . Equivalently, the same conclusion holds after $`K(n)`$-localizing any finite p -local spectrum. This answers the degreewise finiteness question of Hovey and Hovey–Strickland.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7699,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 103,
+      "sha256": "07b43c60772686388bf20560af614d7600c1dda60dcc42dab322e7e75adbd360",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Finite-generation-for-the-Kn-local-sphere-September-24-2026/Finite-generation-for-the-Kn-local-sphere-September-24-2026.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/Finite-generation-for-the-Kn-local-sphere-September-24-2026/Finite-generation-for-the-Kn-local-sphere-September-24-2026.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "314-01",
+      "group": "314",
+      "title": "Cyclic length and chromatic fixed-point loss",
+      "pdf": "preprints/Cyclic-Length-and-Chromatic-Fixed-Point-Loss-September-24-2026/Cyclic-Length-and-Chromatic-Fixed-Point-Loss-September-24-2026.pdf",
+      "folder": "preprints/Cyclic-Length-and-Chromatic-Fixed-Point-Loss-September-24-2026",
+      "abstract_original": "For a finite p -group G and a subgroup H , we prove that the optimal chromatic fixed-point loss equals the shortest length of a subnormal chain from H to G with cyclic quotients. The equality holds at every prime and every nonnegative height, resolving positively the equality proposed by Kuhn and Lloyd.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7715,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 30,
+      "sha256": "1bf9f0b94473b85cecfc6746269e22509d11c918e866a31b67d3329dd3acd857",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Cyclic-Length-and-Chromatic-Fixed-Point-Loss-September-24-2026/Cyclic-Length-and-Chromatic-Fixed-Point-Loss-September-24-2026.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/Cyclic-Length-and-Chromatic-Fixed-Point-Loss-September-24-2026/Cyclic-Length-and-Chromatic-Fixed-Point-Loss-September-24-2026.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "315-01",
+      "group": "315",
+      "title": "The Singer conjecture in dimension four",
+      "pdf": "preprints/The-Singer-conjecture-in-dimension-four-September-25-2026/paper.pdf",
+      "folder": "preprints/The-Singer-conjecture-in-dimension-four-September-25-2026",
+      "abstract_original": "We prove the four-dimensional Singer conjecture: the L 2 -Betti numbers of the universal cover of a closed connected aspherical topological four-manifold vanish outside degree two. More generally, the same vanishing holds for finite connected aspherical integral Poincaré complexes of formal dimension four, including nonorientable ones.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7731,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 45,
+      "sha256": "179f73885d0c7f476cf57fa10d3840edea547fda8a372ce6d0480f8df886243e",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/The-Singer-conjecture-in-dimension-four-September-25-2026/paper.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/The-Singer-conjecture-in-dimension-four-September-25-2026/paper.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "316-01",
+      "group": "316",
+      "title": "The Stable Hurewicz Image of the Sphere at Two",
+      "pdf": "preprints/The-Stable-Hurewicz-Image-of-the-Sphere-at-Two-September-25-2026/paper.pdf",
+      "folder": "preprints/The-Stable-Hurewicz-Image-of-the-Sphere-at-Two-September-25-2026",
+      "abstract_original": "We prove Curtis's conjecture: in every positive degree, the mod-two stable Hurewicz image of the sphere is spanned by the images of η , ν , σ and the Kervaire-invariant-one classes that exist. Consequently, Eccles's conjecture holds for every sphere S n with n > 0.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7747,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 37,
+      "sha256": "4234ea3418d229fb128003bf03c65398c2be92bb94878f7969bbfde9f99b2116",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/The-Stable-Hurewicz-Image-of-the-Sphere-at-Two-September-25-2026/paper.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/The-Stable-Hurewicz-Image-of-the-Sphere-at-Two-September-25-2026/paper.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "317-01",
+      "group": "317",
+      "title": "Thomason Model Structures in Every Strict Higher Dimension",
+      "pdf": "preprints/Thomason-Model-Structures-in-Every-Strict-Higher-Dimension-September-25-2026/paper.pdf",
+      "folder": "preprints/Thomason-Model-Structures-in-Every-Strict-Higher-Dimension-September-25-2026",
+      "abstract_original": "We prove the higher-dimensional Thomason model-structure conjecture of Ara and Maltsiniotis. For every $`1\\le n\\le\\infty`$, the category of small strict globular n -categories admits a proper combinatorial model structure that is Quillen equivalent to simplicial sets. Its weak equivalences and fibrations are detected by the twice-extended Street nerve $`\\mathrm{Ex}^2N_n`$, and the Quillen equivalence is given by $`c_n\\mathrm{Sd}^2\\dashv\\mathrm{Ex}^2N_n`$. Thus strict higher categories model the homotopy theory of spaces in every positive finite dimension and in dimension ω .",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7763,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 35,
+      "sha256": "4297861df49692b89cdcaa4a6471ce95b9b88b71e1ebf5b730412d898bf88181",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Thomason-Model-Structures-in-Every-Strict-Higher-Dimension-September-25-2026/paper.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/Thomason-Model-Structures-in-Every-Strict-Higher-Dimension-September-25-2026/paper.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "318-01",
+      "group": "318",
+      "title": "Filtered chromatic splitting at generic primes",
+      "pdf": "preprints/Filtered-chromatic-splitting-at-generic-primes-September-25-2026/paper.pdf",
+      "folder": "preprints/Filtered-chromatic-splitting-at-generic-primes-September-25-2026",
+      "abstract_original": "For every n ≥ 1 and prime $`p\\gt n+1`$, we construct a $`2^n`$-stage ordered filtration of $`L_{n-1}L_{K(n)}S_p^\\wedge`$ with the classical chromatic-splitting cofibers. The map from the first stage to the target is the canonical localization unit.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7779,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 110,
+      "sha256": "f2aeefc98af1afcdab8b865cb76d08606e93b0439fb7fb578e367ef84ba53015",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Filtered-chromatic-splitting-at-generic-primes-September-25-2026/paper.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/Filtered-chromatic-splitting-at-generic-primes-September-25-2026/paper.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "318-02",
+      "group": "318",
+      "title": "The height-three chromatic overlap: an explicit filtration and its attachments",
+      "pdf": "preprints/The-height-three-chromatic-overlap-an-explicit-filtration-and-its-attachments-September-27-2026/paper.pdf",
+      "folder": "preprints/The-height-three-chromatic-overlap-an-explicit-filtration-and-its-attachments-September-27-2026",
+      "abstract_original": "For every prime p ≥ 5, we construct an explicit eight-stage filtration of $`L_2L_{K(3)}\\mathbb S_p^\\wedge`$ by the local-sphere layers in the height-three chromatic-splitting pattern. The map from its first stage to the overlap is the canonical unit, and two signed fracture formulas identify all attachments for the chosen local maps and compatibility homotopy. A companion canonical-map theorem further implies that the first height-one attachment is nonzero.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7788,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 112,
+      "sha256": "05577ee22db5cad1c9d62ea835144b0465170507bdd77f358ebf4904e42f973c",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/The-height-three-chromatic-overlap-an-explicit-filtration-and-its-attachments-September-27-2026/paper.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/The-height-three-chromatic-overlap-an-explicit-filtration-and-its-attachments-September-27-2026/paper.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "318-03",
+      "group": "318",
+      "title": "A rational obstruction to strong chromatic splitting at height three",
+      "pdf": "preprints/A-rational-obstruction-to-strong-chromatic-splitting-at-height-three-September-25-2026/paper.pdf",
+      "folder": "preprints/A-rational-obstruction-to-strong-chromatic-splitting-at-height-three-September-25-2026",
+      "abstract_original": "For every prime p ≥ 5, the canonical map $`L_0L_{K(3)}S\\to L_0L_{K(2)}L_{K(3)}S`$ for the sphere spectrum S is nonzero on π −3 . Consequently, the height-three strong chromatic splitting formula is false in this range, even as an equivalence of underlying $`E(2)`$-local spectra without specified summand maps.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7797,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 49,
+      "sha256": "6d0bd23f35dc42a1f645f99f7054f2e2f8d0033b78f3e3803b86774fc0558184",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/A-rational-obstruction-to-strong-chromatic-splitting-at-height-three-September-25-2026/paper.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/A-rational-obstruction-to-strong-chromatic-splitting-at-height-three-September-25-2026/paper.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "318-04",
+      "group": "318",
+      "title": "Failure of finite assembly for a chromatic overlap at the prime three",
+      "pdf": "preprints/Failure-of-finite-assembly-for-a-chromatic-overlap-at-the-prime-three-September-25-2026/paper.pdf",
+      "folder": "preprints/Failure-of-finite-assembly-for-a-chromatic-overlap-at-the-prime-three-September-25-2026",
+      "abstract_original": "At the prime three and height three, the chromatic overlap cannot be constructed from the rational, height-one, and height-two local spheres by finitely many sums, shifts, cofibers, and retracts in the category of $`E(2)`$-local modules over the derived 3-complete sphere. This gives a negative answer to the ordinary finite-assembly question for chromatic overlaps.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7806,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 72,
+      "sha256": "b1e58a49eb364dd8e29c4f4b78717cdceb6275f4d7f0f888b3759c0bc67167b7",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Failure-of-finite-assembly-for-a-chromatic-overlap-at-the-prime-three-September-25-2026/paper.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/Failure-of-finite-assembly-for-a-chromatic-overlap-at-the-prime-three-September-25-2026/paper.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "318-05",
+      "group": "318",
+      "title": "Counterexamples to weak chromatic splitting: sphere kernels and descent exponents",
+      "pdf": "preprints/Counterexamples-to-weak-chromatic-splitting-sphere-kernels-and-descent-exponents-September-27-2026/paper.pdf",
+      "folder": "preprints/Counterexamples-to-weak-chromatic-splitting-sphere-kernels-and-descent-exponents-September-27-2026",
+      "abstract_original": "For the derived p -completion of the sphere, the canonical weak chromatic splitting map has no homotopy retraction at height p for every prime p ≥ 5, and at height $`p+1`$ for every prime p ≥ 7. The classical sphere product $`\\beta_1^{(p-1)^2}`$ gives a nonzero kernel class in both ranges.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7815,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 29,
+      "sha256": "f646b6facb641430247503dbf66178811726f0d0f3080f44e1bb48ac1cc7c2f4",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Counterexamples-to-weak-chromatic-splitting-sphere-kernels-and-descent-exponents-September-27-2026/paper.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/Counterexamples-to-weak-chromatic-splitting-sphere-kernels-and-descent-exponents-September-27-2026/paper.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "319-01",
+      "group": "319",
+      "title": "Counterexamples to the Hahn-Wilson conjecture at height two",
+      "pdf": "preprints/Counterexamples-to-the-Hahn-Wilson-conjecture-at-height-two-September-26-2026/paper.pdf",
+      "folder": "preprints/Counterexamples-to-the-Hahn-Wilson-conjecture-at-height-two-September-26-2026",
+      "abstract_original": "We disprove the Hahn–Wilson conjecture at height two. For every sufficiently large prime p , we construct a connective p -complete spectrum X of exact fp-type two outside the ordinary thick subcategory generated by the specified standard form of $`\\mathrm{BP}\\langle2\\rangle_p^\\wedge`$. The same spectrum satisfies both localization comparisons $`L_2^fX\\simeq L_2X`$ and $`L_{T(2)}X\\simeq L_{K(2)}X`$.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7831,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 79,
+      "sha256": "a90ada966eb4154038e29bad22b3110b4a4fbed8e9f6c816563613019e8c931a",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Counterexamples-to-the-Hahn-Wilson-conjecture-at-height-two-September-26-2026/paper.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/Counterexamples-to-the-Hahn-Wilson-conjecture-at-height-two-September-26-2026/paper.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "320-01",
+      "group": "320",
+      "title": "Nonhomeomorphic closed aspherical four-manifolds with the same homotopy type",
+      "pdf": "preprints/Nonhomeomorphic-closed-aspherical-four-manifolds-with-the-same-homotopy-type-October-4-2026/paper.pdf",
+      "folder": "preprints/Nonhomeomorphic-closed-aspherical-four-manifolds-with-the-same-homotopy-type-October-4-2026",
+      "abstract_original": "We construct closed connected aspherical topological four-manifolds that are homotopy equivalent but not homeomorphic, disproving the homeomorphism-existence formulation of the Borel conjecture in dimension four. Their common fundamental group is word-hyperbolic. One of the manifolds also has a self-homotopy equivalence not homotopic to a homeomorphism.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7847,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 60,
+      "sha256": "4d578110a4422046846d608ea43b06b9d2a68a4b6a76abadc5f60e637f623cec",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Nonhomeomorphic-closed-aspherical-four-manifolds-with-the-same-homotopy-type-October-4-2026/paper.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/Nonhomeomorphic-closed-aspherical-four-manifolds-with-the-same-homotopy-type-October-4-2026/paper.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    },
+    {
+      "id": "321-01",
+      "group": "321",
+      "title": "A Counterexample to Wall's D(2) Problem",
+      "pdf": "preprints/A-Counterexample-to-Walls-D2-Problem-October-6-2026/wall-d2-counterexample.pdf",
+      "folder": "preprints/A-Counterexample-to-Walls-D2-Problem-October-6-2026",
+      "abstract_original": "We give a negative answer to Wall's finite $`D(2)`$ problem. We construct a finite connected three-dimensional CW complex satisfying the $`D(2)`$ finiteness condition but not homotopy equivalent to any finite CW complex of dimension at most two. The example has infinite fundamental group.",
+      "archive": "math_research_08_of_08.zip",
+      "exists": true,
+      "source_line": 7863,
+      "coverage": "catalog_only",
+      "read_detail": null,
+      "pages": 10,
+      "sha256": "e34de3716e64bba49880fff61808d5065477785596703bc0debf2379ad246c0c",
+      "bundled_pdf": null,
+      "local_href": "../math_sources/math_research_08_of_08/preprints/A-Counterexample-to-Walls-D2-Problem-October-6-2026/wall-d2-counterexample.pdf",
+      "online_url": "https://github.com/openai/math/blob/main/preprints/A-Counterexample-to-Walls-D2-Problem-October-6-2026/wall-d2-counterexample.pdf",
+      "source_catalog": "sources/context/CONTENTS.md",
+      "independent_verification": "not_identified_in_limited_search"
+    }
+  ],
+  "extra_folders": [
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/Goldfelds-analytic-density-conjecture-and-the-2-converse-for-elliptic-curves-September-23-2026",
+      "readme": "# [Goldfeld's analytic density conjecture and the 2-converse for elliptic curves](paper.pdf)\n\n**Author:** OpenAI\n\n**Date:** September 23, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:Goldfelds-analytic-density-conjecture-and-the-2-converse-for-elliptic-curves-September-23-2026,\n  author = {{OpenAI}},\n  title = {{Goldfeld's analytic density conjecture and the $2$-converse for elliptic curves}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/Goldfelds-analytic-density-conjecture-and-the-2-converse-for-elliptic-curves-September-23-2026/paper.pdf}{OAI:Goldfelds-analytic-density-conjecture-and-the-2-converse-for-elliptic-curves-September-23-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/Goldfelds-analytic-density-conjecture-and-the-2-converse-for-elliptic-curves-September-23-2026/paper.pdf"
+      ],
+      "id": "extra-01",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Goldfelds-analytic-density-conjecture-and-the-2-converse-for-elliptic-curves-September-23-2026/README.md",
+      "bundled_readme": "sources/extras/extra-01/README.md",
+      "possible_current_versions": [
+        "006-01"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/Finite-ordinary-minimal-model-programs-on-compact-Kahler-fourfolds-October-5-2026",
+      "readme": "# [Finite ordinary minimal model programs on compact Kähler fourfolds](paper.pdf)\n\n**Author:** OpenAI\n\n**Date:** October 5, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:Finite-ordinary-minimal-model-programs-on-compact-Kahler-fourfolds-October-5-2026,\n  author = {{OpenAI}},\n  title = {{Finite ordinary minimal model programs on compact K{\\\"a}hler fourfolds}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/Finite-ordinary-minimal-model-programs-on-compact-Kahler-fourfolds-October-5-2026/paper.pdf}{OAI:Finite-ordinary-minimal-model-programs-on-compact-Kahler-fourfolds-October-5-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/Finite-ordinary-minimal-model-programs-on-compact-Kahler-fourfolds-October-5-2026/paper.pdf"
+      ],
+      "id": "extra-02",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Finite-ordinary-minimal-model-programs-on-compact-Kahler-fourfolds-October-5-2026/README.md",
+      "bundled_readme": "sources/extras/extra-02/README.md",
+      "possible_current_versions": [
+        "056-04",
+        "056-05"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/Conditional-good-minimal-models-for-compact-Kahler-fourfolds-October-5-2026",
+      "readme": "# [Conditional good minimal models for compact Kähler fourfolds](paper.pdf)\n\nAuthor: OpenAI  \nDate: October 5, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:Conditional-good-minimal-models-for-compact-Kahler-fourfolds-October-5-2026,\n  author = {{OpenAI}},\n  title = {{Conditional good minimal models for compact K\\\"ahler fourfolds}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/Conditional-good-minimal-models-for-compact-Kahler-fourfolds-October-5-2026/paper.pdf}{OAI:Conditional-good-minimal-models-for-compact-Kahler-fourfolds-October-5-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/Conditional-good-minimal-models-for-compact-Kahler-fourfolds-October-5-2026/paper.pdf"
+      ],
+      "id": "extra-03",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Conditional-good-minimal-models-for-compact-Kahler-fourfolds-October-5-2026/README.md",
+      "bundled_readme": "sources/extras/extra-03/README.md",
+      "possible_current_versions": [
+        "034-03"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/Milnes-rationality-conjecture-for-abelian-varieties-September-23-2026",
+      "readme": "# [Milne's rationality conjecture for abelian varieties](paper.pdf)\n\n**Author:** OpenAI\n\n**Date:** September 23, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:Milnes-rationality-conjecture-for-abelian-varieties-September-23-2026,\n  author = {{OpenAI}},\n  title = {{Milne's rationality conjecture for abelian varieties}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/Milnes-rationality-conjecture-for-abelian-varieties-September-23-2026/paper.pdf}{OAI:Milnes-rationality-conjecture-for-abelian-varieties-September-23-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/Milnes-rationality-conjecture-for-abelian-varieties-September-23-2026/paper.pdf"
+      ],
+      "id": "extra-04",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Milnes-rationality-conjecture-for-abelian-varieties-September-23-2026/README.md",
+      "bundled_readme": "sources/extras/extra-04/README.md",
+      "possible_current_versions": [
+        "001-01"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/Algebraicity-of-Kuga-Satake-Correspondences-for-K3-Surfaces-October-3-2026",
+      "readme": "# [Withdrawal notice: Algebraicity of Kuga-Satake Correspondences for K3 Surfaces](manuscript.pdf)\n\nOpenAI  \n**Withdrawn on October 6, 2026.**\n\nThe proof relies on an adaptation of the flawed stabilization-trace construction in [Algebraicity of Weil classes on split abelian eightfolds](https://github.com/openai/math/blob/main/preprints/Algebraicity-of-Weil-classes-on-split-abelian-eightfolds-September-18-2026/paper.pdf). The sign error in that construction prevents the required signed-double-point cancellation. The resulting gap leaves this paper's claimed algebraicity theorem unproved.\n\nThis withdrawal concerns the proof; it does not assert that the mathematical statement is false.\n\n## Archived manuscript\n\n[Pre-withdrawal PDF](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/Algebraicity-of-Kuga-Satake-Correspondences-for-K3-Surfaces-October-3-2026/manuscript.pdf)  \nRepository revision: `adc7f1241b42e322a6451854ab7e4b4c146bf78a`.\n",
+      "pdfs": [
+        "preprints/Algebraicity-of-Kuga-Satake-Correspondences-for-K3-Surfaces-October-3-2026/manuscript.pdf"
+      ],
+      "id": "extra-05",
+      "status": "withdrawn",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Algebraicity-of-Kuga-Satake-Correspondences-for-K3-Surfaces-October-3-2026/README.md",
+      "bundled_readme": "sources/extras/extra-05/README.md",
+      "bundled_pdfs": [
+        "sources/extras/extra-05/manuscript.pdf"
+      ],
+      "possible_current_versions": [],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/Deforming-hypersymplectic-four-manifolds-to-hyperkahler-triples-September-23-2026",
+      "readme": "# [Deforming hypersymplectic four-manifolds to hyperkähler triples](paper.pdf)\n\n**Author:** OpenAI\n\n**Date:** September 23, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:Deforming-hypersymplectic-four-manifolds-to-hyperkahler-triples-September-23-2026,\n  author = {{OpenAI}},\n  title = {{Deforming hypersymplectic four-manifolds to hyperk\\\"ahler triples}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/Deforming-hypersymplectic-four-manifolds-to-hyperkahler-triples-September-23-2026/paper.pdf}{OAI:Deforming-hypersymplectic-four-manifolds-to-hyperkahler-triples-September-23-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/Deforming-hypersymplectic-four-manifolds-to-hyperkahler-triples-September-23-2026/paper.pdf"
+      ],
+      "id": "extra-06",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Deforming-hypersymplectic-four-manifolds-to-hyperkahler-triples-September-23-2026/README.md",
+      "bundled_readme": "sources/extras/extra-06/README.md",
+      "possible_current_versions": [
+        "341-01"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/The-two-primary-Birch-Swinnerton-Dyer-formula-in-Selmer-corank-at-most-one-September-24-2026",
+      "readme": "# [The two-primary Birch–Swinnerton-Dyer formula in Selmer corank at most one](paper.pdf)\n\n**Author:** OpenAI\n\n**Date:** September 24, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:The-two-primary-Birch-Swinnerton-Dyer-formula-in-Selmer-corank-at-most-one-September-24-2026,\n  author = {{OpenAI}},\n  title = {{The two-primary Birch--Swinnerton-Dyer formula in Selmer corank at most one}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/The-two-primary-Birch-Swinnerton-Dyer-formula-in-Selmer-corank-at-most-one-September-24-2026/paper.pdf}{OAI:The-two-primary-Birch-Swinnerton-Dyer-formula-in-Selmer-corank-at-most-one-September-24-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/The-two-primary-Birch-Swinnerton-Dyer-formula-in-Selmer-corank-at-most-one-September-24-2026/paper.pdf"
+      ],
+      "id": "extra-07",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/The-two-primary-Birch-Swinnerton-Dyer-formula-in-Selmer-corank-at-most-one-September-24-2026/README.md",
+      "bundled_readme": "sources/extras/extra-07/README.md",
+      "possible_current_versions": [
+        "002-03"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/The-Selmer-converse-for-elliptic-curves-at-every-prime-September-24-2026",
+      "readme": "# [The Selmer converse for elliptic curves at every prime](main.pdf)\n\n**Author:** OpenAI\n\n**Date:** September 24, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:The-Selmer-converse-for-elliptic-curves-at-every-prime-September-24-2026,\n  author = {{OpenAI}},\n  title = {{The Selmer converse for elliptic curves at every prime}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/The-Selmer-converse-for-elliptic-curves-at-every-prime-September-24-2026/main.pdf}{OAI:The-Selmer-converse-for-elliptic-curves-at-every-prime-September-24-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/The-Selmer-converse-for-elliptic-curves-at-every-prime-September-24-2026/main.pdf"
+      ],
+      "id": "extra-08",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/The-Selmer-converse-for-elliptic-curves-at-every-prime-September-24-2026/README.md",
+      "bundled_readme": "sources/extras/extra-08/README.md",
+      "possible_current_versions": [
+        "002-02"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/Exact-Birch-Swinnerton-Dyer-Formula-from-Low-Selmer-Corank-October-3-2026",
+      "readme": "# [Exact Birch–Swinnerton-Dyer Formula from Low Selmer Corank](exact-bsd-low-selmer-corank.pdf)\n\n**Author:** OpenAI\n\n**Date:** October 3, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:Exact-Birch-Swinnerton-Dyer-Formula-from-Low-Selmer-Corank-October-3-2026,\n  author = {{OpenAI}},\n  title = {{Exact Birch--Swinnerton-Dyer Formula from Low Selmer Corank}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/Exact-Birch-Swinnerton-Dyer-Formula-from-Low-Selmer-Corank-October-3-2026/exact-bsd-low-selmer-corank.pdf}{OAI:Exact-Birch-Swinnerton-Dyer-Formula-from-Low-Selmer-Corank-October-3-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/Exact-Birch-Swinnerton-Dyer-Formula-from-Low-Selmer-Corank-October-3-2026/exact-bsd-low-selmer-corank.pdf"
+      ],
+      "id": "extra-09",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Exact-Birch-Swinnerton-Dyer-Formula-from-Low-Selmer-Corank-October-3-2026/README.md",
+      "bundled_readme": "sources/extras/extra-09/README.md",
+      "possible_current_versions": [
+        "002-01"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/The-mean-analytic-rank-of-quadratic-twists-of-elliptic-curves-September-23-2026",
+      "readme": "# [The mean analytic rank of quadratic twists of elliptic curves](paper.pdf)\n\n**Author:** OpenAI\n\n**Date:** September 23, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:The-mean-analytic-rank-of-quadratic-twists-of-elliptic-curves-September-23-2026,\n  author = {{OpenAI}},\n  title = {{The mean analytic rank of quadratic twists of elliptic curves}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/The-mean-analytic-rank-of-quadratic-twists-of-elliptic-curves-September-23-2026/paper.pdf}{OAI:The-mean-analytic-rank-of-quadratic-twists-of-elliptic-curves-September-23-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/The-mean-analytic-rank-of-quadratic-twists-of-elliptic-curves-September-23-2026/paper.pdf"
+      ],
+      "id": "extra-10",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/The-mean-analytic-rank-of-quadratic-twists-of-elliptic-curves-September-23-2026/README.md",
+      "bundled_readme": "sources/extras/extra-10/README.md",
+      "possible_current_versions": [
+        "006-02"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/Gaussian-free-field-limits-of-weighted-integer-Lipschitz-heights-September-25-2026",
+      "readme": "# [Gaussian free-field limits of weighted integer Lipschitz heights](paper.pdf)\n\n**Author:** OpenAI\n\n**Date:** September 25, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:Gaussian-free-field-limits-of-weighted-integer-Lipschitz-heights-September-25-2026,\n  author = {{OpenAI}},\n  title = {{Gaussian free-field limits of weighted integer Lipschitz heights}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/Gaussian-free-field-limits-of-weighted-integer-Lipschitz-heights-September-25-2026/paper.pdf}{OAI:Gaussian-free-field-limits-of-weighted-integer-Lipschitz-heights-September-25-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/Gaussian-free-field-limits-of-weighted-integer-Lipschitz-heights-September-25-2026/paper.pdf"
+      ],
+      "id": "extra-11",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Gaussian-free-field-limits-of-weighted-integer-Lipschitz-heights-September-25-2026/README.md",
+      "bundled_readme": "sources/extras/extra-11/README.md",
+      "possible_current_versions": [
+        "232-01"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/Numerical-semiampleness-of-nef-adjoint-classes-on-compact-Kahler-manifolds-October-4-2026",
+      "readme": "# [Numerical semiampleness of nef adjoint classes on compact Kähler manifolds](numerical-generalized-abundance.pdf)\n\n**Author:** OpenAI\n\n**Date:** October 4, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:Numerical-semiampleness-of-nef-adjoint-classes-on-compact-Kahler-manifolds-October-4-2026,\n  author = {{OpenAI}},\n  title = {{Numerical semiampleness of nef adjoint classes on compact K{\\\"a}hler manifolds}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/Numerical-semiampleness-of-nef-adjoint-classes-on-compact-Kahler-manifolds-October-4-2026/numerical-generalized-abundance.pdf}{OAI:Numerical-semiampleness-of-nef-adjoint-classes-on-compact-Kahler-manifolds-October-4-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/Numerical-semiampleness-of-nef-adjoint-classes-on-compact-Kahler-manifolds-October-4-2026/numerical-generalized-abundance.pdf"
+      ],
+      "id": "extra-12",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Numerical-semiampleness-of-nef-adjoint-classes-on-compact-Kahler-manifolds-October-4-2026/README.md",
+      "bundled_readme": "sources/extras/extra-12/README.md",
+      "possible_current_versions": [
+        "036-01"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/Log-abundance-for-compact-Kahler-spaces-under-logarithmic-Iitaka-subadditivity-October-4-2026",
+      "readme": "# [Log abundance for compact Kähler spaces under logarithmic Iitaka subadditivity](main.pdf)\n\n**Author:** OpenAI\n\n**Date:** October 4, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:Log-abundance-for-compact-Kahler-spaces-under-logarithmic-Iitaka-subadditivity-October-4-2026,\n  author = {{OpenAI}},\n  title = {{Log abundance for compact K{\\\"a}hler spaces under logarithmic Iitaka subadditivity}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/Log-abundance-for-compact-Kahler-spaces-under-logarithmic-Iitaka-subadditivity-October-4-2026/main.pdf}{OAI:Log-abundance-for-compact-Kahler-spaces-under-logarithmic-Iitaka-subadditivity-October-4-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/Log-abundance-for-compact-Kahler-spaces-under-logarithmic-Iitaka-subadditivity-October-4-2026/main.pdf"
+      ],
+      "id": "extra-13",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Log-abundance-for-compact-Kahler-spaces-under-logarithmic-Iitaka-subadditivity-October-4-2026/README.md",
+      "bundled_readme": "sources/extras/extra-13/README.md",
+      "possible_current_versions": [
+        "034-01"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/Unrestricted-pro-modularity-at-the-prime-two-October-4-2026",
+      "readme": "# [Unrestricted pro-modularity at the prime two](two-adic-promodularity.pdf)\n\n**Author:** OpenAI\n\n**Date:** October 4, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:Unrestricted-pro-modularity-at-the-prime-two-October-4-2026,\n  author = {{OpenAI}},\n  title = {{Unrestricted pro-modularity at the prime two}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/Unrestricted-pro-modularity-at-the-prime-two-October-4-2026/two-adic-promodularity.pdf}{OAI:Unrestricted-pro-modularity-at-the-prime-two-October-4-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/Unrestricted-pro-modularity-at-the-prime-two-October-4-2026/two-adic-promodularity.pdf"
+      ],
+      "id": "extra-14",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Unrestricted-pro-modularity-at-the-prime-two-October-4-2026/README.md",
+      "bundled_readme": "sources/extras/extra-14/README.md",
+      "possible_current_versions": [
+        "010-01"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/The-joint-scaling-limit-of-critical-Ashkin-Teller-currents-September-25-2026",
+      "readme": "# [The joint scaling limit of critical Ashkin–Teller currents](main.pdf)\n\nOpenAI  \nSeptember 25, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:The-joint-scaling-limit-of-critical-Ashkin-Teller-currents-September-25-2026,\n  author = {{OpenAI}},\n  title = {{The joint scaling limit of critical Ashkin--Teller currents}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/The-joint-scaling-limit-of-critical-Ashkin-Teller-currents-September-25-2026/main.pdf}{OAI:The-joint-scaling-limit-of-critical-Ashkin-Teller-currents-September-25-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/The-joint-scaling-limit-of-critical-Ashkin-Teller-currents-September-25-2026/main.pdf"
+      ],
+      "id": "extra-15",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/The-joint-scaling-limit-of-critical-Ashkin-Teller-currents-September-25-2026/README.md",
+      "bundled_readme": "sources/extras/extra-15/README.md",
+      "possible_current_versions": [
+        "233-01"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/The-rational-Hodge-conjecture-for-CM-abelian-varieties-September-30-2026",
+      "readme": "# [The rational Hodge conjecture for CM abelian varieties](paper.pdf)\n\n**Author:** OpenAI\n\n**Date:** September 30, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:The-rational-Hodge-conjecture-for-CM-abelian-varieties-September-30-2026,\n  author = {{OpenAI}},\n  title = {{The rational Hodge conjecture for CM abelian varieties}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/The-rational-Hodge-conjecture-for-CM-abelian-varieties-September-30-2026/paper.pdf}{OAI:The-rational-Hodge-conjecture-for-CM-abelian-varieties-September-30-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/The-rational-Hodge-conjecture-for-CM-abelian-varieties-September-30-2026/paper.pdf"
+      ],
+      "id": "extra-16",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/The-rational-Hodge-conjecture-for-CM-abelian-varieties-September-30-2026/README.md",
+      "bundled_readme": "sources/extras/extra-16/README.md",
+      "possible_current_versions": [
+        "032-01"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/Abelian-covers-Gale-correspondences-and-the-Hodge-conjecture-for-powers-September-30-2026",
+      "readme": "# [Abelian covers, Gale correspondences, and the Hodge conjecture for powers](paper.pdf)\n\n**Author:** OpenAI\n\n**Date:** September 30, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:Abelian-covers-Gale-correspondences-and-the-Hodge-conjecture-for-powers-September-30-2026,\n  author = {{OpenAI}},\n  title = {{Abelian covers, Gale correspondences, and the Hodge conjecture for powers}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/Abelian-covers-Gale-correspondences-and-the-Hodge-conjecture-for-powers-September-30-2026/paper.pdf}{OAI:Abelian-covers-Gale-correspondences-and-the-Hodge-conjecture-for-powers-September-30-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/Abelian-covers-Gale-correspondences-and-the-Hodge-conjecture-for-powers-September-30-2026/paper.pdf"
+      ],
+      "id": "extra-17",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Abelian-covers-Gale-correspondences-and-the-Hodge-conjecture-for-powers-September-30-2026/README.md",
+      "bundled_readme": "sources/extras/extra-17/README.md",
+      "possible_current_versions": [
+        "032-04"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/A-pointwise-2-converse-for-elliptic-curves-with-rational-two-torsion-September-24-2026",
+      "readme": "# [A pointwise 2-converse for elliptic curves with rational two-torsion](paper.pdf)\n\n**Author:** OpenAI\n\n**Date:** September 24, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:A-pointwise-2-converse-for-elliptic-curves-with-rational-two-torsion-September-24-2026,\n  author = {{OpenAI}},\n  title = {{A pointwise $2$-converse for elliptic curves with rational two-torsion}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/A-pointwise-2-converse-for-elliptic-curves-with-rational-two-torsion-September-24-2026/paper.pdf}{OAI:A-pointwise-2-converse-for-elliptic-curves-with-rational-two-torsion-September-24-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/A-pointwise-2-converse-for-elliptic-curves-with-rational-two-torsion-September-24-2026/paper.pdf"
+      ],
+      "id": "extra-18",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/A-pointwise-2-converse-for-elliptic-curves-with-rational-two-torsion-September-24-2026/README.md",
+      "bundled_readme": "sources/extras/extra-18/README.md",
+      "possible_current_versions": [
+        "004-02"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/Taming-implies-compatibility-on-four-manifolds-September-23-2026",
+      "readme": "# [Taming implies compatibility on four-manifolds](paper.pdf)\n\n**Author:** OpenAI\n\n**Date:** September 23, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:Taming-implies-compatibility-on-four-manifolds-September-23-2026,\n  author = {{OpenAI}},\n  title = {{Taming implies compatibility on four-manifolds}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/Taming-implies-compatibility-on-four-manifolds-September-23-2026/paper.pdf}{OAI:Taming-implies-compatibility-on-four-manifolds-September-23-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/Taming-implies-compatibility-on-four-manifolds-September-23-2026/paper.pdf"
+      ],
+      "id": "extra-19",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Taming-implies-compatibility-on-four-manifolds-September-23-2026/README.md",
+      "bundled_readme": "sources/extras/extra-19/README.md",
+      "possible_current_versions": [
+        "342-01"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/The-p-adic-section-conjecture-September-24-2026",
+      "readme": "# [The p-adic section conjecture](main.pdf)\n\n**Author:** OpenAI\n\n**Date:** September 24, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:The-p-adic-section-conjecture-September-24-2026,\n  author = {{OpenAI}},\n  title = {{The p-adic section conjecture}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/The-p-adic-section-conjecture-September-24-2026/main.pdf}{OAI:The-p-adic-section-conjecture-September-24-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/The-p-adic-section-conjecture-September-24-2026/main.pdf"
+      ],
+      "id": "extra-20",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/The-p-adic-section-conjecture-September-24-2026/README.md",
+      "bundled_readme": "sources/extras/extra-20/README.md",
+      "possible_current_versions": [
+        "019-02"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/Weil-classes-and-Hodge-classes-on-abelian-powers-September-30-2026",
+      "readme": "# [Weil classes and Hodge classes on abelian powers](paper.pdf)\n\n**Author:** OpenAI\n\n**Date:** September 30, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:Weil-classes-and-Hodge-classes-on-abelian-powers-September-30-2026,\n  author = {{OpenAI}},\n  title = {{Weil classes and Hodge classes on abelian powers}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/Weil-classes-and-Hodge-classes-on-abelian-powers-September-30-2026/paper.pdf}{OAI:Weil-classes-and-Hodge-classes-on-abelian-powers-September-30-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/Weil-classes-and-Hodge-classes-on-abelian-powers-September-30-2026/paper.pdf"
+      ],
+      "id": "extra-21",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Weil-classes-and-Hodge-classes-on-abelian-powers-September-30-2026/README.md",
+      "bundled_readme": "sources/extras/extra-21/README.md",
+      "possible_current_versions": [
+        "032-03"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/The-rational-Hodge-conjecture-for-products-of-K3-surfaces-October-4-2026",
+      "readme": "# [Withdrawal notice: The rational Hodge conjecture for products of K3 surfaces](hodge-conjecture-products-k3.pdf)\n\nOpenAI  \n**Withdrawn on October 6, 2026.**\n\nThe proof relies on an adaptation of the flawed stabilization-trace construction in [Algebraicity of Weil classes on split abelian eightfolds](https://github.com/openai/math/blob/main/preprints/Algebraicity-of-Weil-classes-on-split-abelian-eightfolds-September-18-2026/paper.pdf). The sign error in that construction prevents the required signed-double-point cancellation. The resulting gap leaves this paper's claimed rational Hodge theorem for products of projective K3 surfaces unproved.\n\nThis withdrawal concerns the proof; it does not assert that the mathematical statement is false.\n\n## Archived manuscript\n\n[Pre-withdrawal PDF](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/The-rational-Hodge-conjecture-for-products-of-K3-surfaces-October-4-2026/hodge-conjecture-products-k3.pdf)  \nRepository revision: `adc7f1241b42e322a6451854ab7e4b4c146bf78a`.\n",
+      "pdfs": [
+        "preprints/The-rational-Hodge-conjecture-for-products-of-K3-surfaces-October-4-2026/hodge-conjecture-products-k3.pdf"
+      ],
+      "id": "extra-22",
+      "status": "withdrawn",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/The-rational-Hodge-conjecture-for-products-of-K3-surfaces-October-4-2026/README.md",
+      "bundled_readme": "sources/extras/extra-22/README.md",
+      "bundled_pdfs": [
+        "sources/extras/extra-22/hodge-conjecture-products-k3.pdf"
+      ],
+      "possible_current_versions": [],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/Hilberts-tenth-problem-over-the-rational-numbers-September-24-2026",
+      "readme": "# [Hilbert's tenth problem over the rational numbers](main.pdf)\n\n**Author:** OpenAI\n\n**Date:** September 24, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:Hilberts-tenth-problem-over-the-rational-numbers-September-24-2026,\n  author = {{OpenAI}},\n  title = {{Hilbert's tenth problem over the rational numbers}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/Hilberts-tenth-problem-over-the-rational-numbers-September-24-2026/main.pdf}{OAI:Hilberts-tenth-problem-over-the-rational-numbers-September-24-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/Hilberts-tenth-problem-over-the-rational-numbers-September-24-2026/main.pdf"
+      ],
+      "id": "extra-23",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Hilberts-tenth-problem-over-the-rational-numbers-September-24-2026/README.md",
+      "bundled_readme": "sources/extras/extra-23/README.md",
+      "possible_current_versions": [
+        "004-01"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/The-Gaussian-free-field-limit-of-integer-Lipschitz-heights-with-two-arc-boundary-data-September-25-2026",
+      "readme": "# [The Gaussian free field limit of integer Lipschitz heights with two-arc boundary data](paper.pdf)\n\n**Author:** OpenAI\n\n**Date:** September 25, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:The-Gaussian-free-field-limit-of-integer-Lipschitz-heights-with-two-arc-boundary-data-September-25-2026,\n  author = {{OpenAI}},\n  title = {{The Gaussian free field limit of integer Lipschitz heights with two-arc boundary data}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/The-Gaussian-free-field-limit-of-integer-Lipschitz-heights-with-two-arc-boundary-data-September-25-2026/paper.pdf}{OAI:The-Gaussian-free-field-limit-of-integer-Lipschitz-heights-with-two-arc-boundary-data-September-25-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/The-Gaussian-free-field-limit-of-integer-Lipschitz-heights-with-two-arc-boundary-data-September-25-2026/paper.pdf"
+      ],
+      "id": "extra-24",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/The-Gaussian-free-field-limit-of-integer-Lipschitz-heights-with-two-arc-boundary-data-September-25-2026/README.md",
+      "bundled_readme": "sources/extras/extra-24/README.md",
+      "possible_current_versions": [
+        "232-02"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/Algebraicity-of-Weil-classes-on-split-abelian-eightfolds-September-18-2026",
+      "readme": "# [Withdrawal notice: Algebraicity of Weil classes on split abelian eightfolds](paper.pdf)\n\nOpenAI  \n**Withdrawn on October 6, 2026.**\n\nThe proof contains a sign error in the stabilization-trace argument used to obtain negative double points. In the manuscript's signed double-point convention, write $I(f_1)=-m$ with $m>0$. The proof assigns each reverse stabilization trace sign $+1$ and therefore claims that inserting $m$ such traces makes the signed count zero.\n\nAccounting for the opposite source orientations of the two branches of the standard cusp gives sign $-1$ for each reverse trace in this convention. The resulting count is therefore\n\n$$I_{\\mathrm{new}}=I(f_1)-m=-2m\\ne0.$$\n\nThe Eliashberg-Murphy cancellation theorem invoked at this step requires zero signed double-point count, so its hypothesis is not met. The subsequent oriented-surgery and embedded-brane construction is therefore unsupported, and the paper does not establish its claimed algebraicity theorem.\n\nThis withdrawal concerns the proof; it does not assert that the mathematical statement is false.\n\n## Archived manuscript\n\n[Pre-withdrawal PDF](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/Algebraicity-of-Weil-classes-on-split-abelian-eightfolds-September-18-2026/paper.pdf)  \nRepository revision: `adc7f1241b42e322a6451854ab7e4b4c146bf78a`.\n",
+      "pdfs": [
+        "preprints/Algebraicity-of-Weil-classes-on-split-abelian-eightfolds-September-18-2026/paper.pdf"
+      ],
+      "id": "extra-25",
+      "status": "withdrawn",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Algebraicity-of-Weil-classes-on-split-abelian-eightfolds-September-18-2026/README.md",
+      "bundled_readme": "sources/extras/extra-25/README.md",
+      "bundled_pdfs": [
+        "sources/extras/extra-25/paper.pdf"
+      ],
+      "possible_current_versions": [],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/Incompressible-Box-Transport-and-Finite-Computation-September-27-2026",
+      "readme": "# [Incompressible Box Transport and Finite Computation](manuscript.pdf)\n\n**Author:** OpenAI  \n**Date:** September 27, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:Incompressible-Box-Transport-and-Finite-Computation-September-27-2026,\n  author = {{OpenAI}},\n  title = {{Incompressible Box Transport and Finite Computation}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/Incompressible-Box-Transport-and-Finite-Computation-September-27-2026/manuscript.pdf}{OAI:Incompressible-Box-Transport-and-Finite-Computation-September-27-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/Incompressible-Box-Transport-and-Finite-Computation-September-27-2026/manuscript.pdf"
+      ],
+      "id": "extra-26",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Incompressible-Box-Transport-and-Finite-Computation-September-27-2026/README.md",
+      "bundled_readme": "sources/extras/extra-26/README.md",
+      "possible_current_versions": [
+        "376-09"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/Fontaine-Mazur-modularity-at-the-prime-2-September-23-2026",
+      "readme": "# [Fontaine–Mazur modularity at the prime 2](paper.pdf)\n\n**Author:** OpenAI\n\n**Date:** September 23, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:Fontaine-Mazur-modularity-at-the-prime-2-September-23-2026,\n  author = {{OpenAI}},\n  title = {{Fontaine--Mazur modularity at the prime 2}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/Fontaine-Mazur-modularity-at-the-prime-2-September-23-2026/paper.pdf}{OAI:Fontaine-Mazur-modularity-at-the-prime-2-September-23-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/Fontaine-Mazur-modularity-at-the-prime-2-September-23-2026/paper.pdf"
+      ],
+      "id": "extra-27",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Fontaine-Mazur-modularity-at-the-prime-2-September-23-2026/README.md",
+      "bundled_readme": "sources/extras/extra-27/README.md",
+      "possible_current_versions": [
+        "010-03"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/Termination-of-generalized-log-canonical-flips-on-compact-Kahler-fourfolds-October-5-2026",
+      "readme": "# [Termination of generalized log canonical flips on compact Kähler fourfolds](termination-generalized-lc-kahler-fourfolds.pdf)\n\n**Author:** OpenAI\n\n**Date:** October 5, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:Termination-of-generalized-log-canonical-flips-on-compact-Kahler-fourfolds-October-5-2026,\n  author = {{OpenAI}},\n  title = {{Termination of generalized log canonical flips on compact K{\\\"a}hler fourfolds}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/Termination-of-generalized-log-canonical-flips-on-compact-Kahler-fourfolds-October-5-2026/termination-generalized-lc-kahler-fourfolds.pdf}{OAI:Termination-of-generalized-log-canonical-flips-on-compact-Kahler-fourfolds-October-5-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/Termination-of-generalized-log-canonical-flips-on-compact-Kahler-fourfolds-October-5-2026/termination-generalized-lc-kahler-fourfolds.pdf"
+      ],
+      "id": "extra-28",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Termination-of-generalized-log-canonical-flips-on-compact-Kahler-fourfolds-October-5-2026/README.md",
+      "bundled_readme": "sources/extras/extra-28/README.md",
+      "possible_current_versions": [
+        "056-01"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/Termination-of-generalized-canonical-flips-on-compact-Kahler-fourfolds-October-5-2026",
+      "readme": "# [Termination of generalized-canonical flips on compact Kähler fourfolds](termination-generalized-terminal-flips-compact-kahler-fourfolds.pdf)\n\n**Author:** OpenAI\n\n**Date:** October 5, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:Termination-of-generalized-canonical-flips-on-compact-Kahler-fourfolds-October-5-2026,\n  author = {{OpenAI}},\n  title = {{Termination of generalized-canonical flips on compact K{\\\"a}hler fourfolds}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/Termination-of-generalized-canonical-flips-on-compact-Kahler-fourfolds-October-5-2026/termination-generalized-terminal-flips-compact-kahler-fourfolds.pdf}{OAI:Termination-of-generalized-canonical-flips-on-compact-Kahler-fourfolds-October-5-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/Termination-of-generalized-canonical-flips-on-compact-Kahler-fourfolds-October-5-2026/termination-generalized-terminal-flips-compact-kahler-fourfolds.pdf"
+      ],
+      "id": "extra-29",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Termination-of-generalized-canonical-flips-on-compact-Kahler-fourfolds-October-5-2026/README.md",
+      "bundled_readme": "sources/extras/extra-29/README.md",
+      "possible_current_versions": [
+        "056-02"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    },
+    {
+      "archive": "math_research_08_of_08.zip",
+      "folder": "preprints/Uniform-real-Lipschitz-surfaces-on-the-triangular-lattice-September-25-2026",
+      "readme": "# [Uniform real Lipschitz surfaces on the triangular lattice](paper.pdf)\n\n**Author:** OpenAI\n\n**Date:** September 25, 2026\n\n## Citation\n\n```bibtex\n@misc{OAI:Uniform-real-Lipschitz-surfaces-on-the-triangular-lattice-September-25-2026,\n  author = {{OpenAI}},\n  title = {{Uniform real Lipschitz surfaces on the triangular lattice}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/Uniform-real-Lipschitz-surfaces-on-the-triangular-lattice-September-25-2026/paper.pdf}{OAI:Uniform-real-Lipschitz-surfaces-on-the-triangular-lattice-September-25-2026}},\n  year = {2026}\n}\n```\n\n",
+      "pdfs": [
+        "preprints/Uniform-real-Lipschitz-surfaces-on-the-triangular-lattice-September-25-2026/paper.pdf"
+      ],
+      "id": "extra-30",
+      "status": "outside_current_catalog",
+      "local_href": "../math_sources/math_research_08_of_08/preprints/Uniform-real-Lipschitz-surfaces-on-the-triangular-lattice-September-25-2026/README.md",
+      "bundled_readme": "sources/extras/extra-30/README.md",
+      "possible_current_versions": [
+        "232-03"
+      ],
+      "version_match_method": "filename_stem_only_not_semantic_validation"
+    }
+  ]
+}

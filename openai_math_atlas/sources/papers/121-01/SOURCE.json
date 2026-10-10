@@ -1,0 +1,15 @@
+{
+  "id": "121-01",
+  "group": "121",
+  "title": "An Almost-Linear Approximation Scheme for Edit Distance",
+  "pdf": "preprints/An-Almost-Linear-Approximation-Scheme-for-Edit-Distance-September-24-2026/paper.pdf",
+  "folder": "preprints/An-Almost-Linear-Approximation-Scheme-for-Edit-Distance-September-24-2026",
+  "abstract_original": "We give a uniform randomized approximation scheme for unit-cost edit distance. For every fixed rational $`\\varepsilon\\in(0,1)`$, it estimates the distance between arbitrary explicitly stored strings of total length N within a factor $`1+\\varepsilon`$ with probability at least 2/3, in worst-case expected time $`N^{1+o(1)}`$ on a logarithmic-word RAM. The algorithm supports polynomially bounded integer alphabets and returns zero deterministically on equal strings.",
+  "archive": "math_research_07_of_08.zip",
+  "exists": true,
+  "source_line": 2970,
+  "coverage": "catalog_only",
+  "pages": 46,
+  "sha256": "7ecda63faaa7d6a3ff36852775a6a015a8d832ace341a534af86a375d1d89807",
+  "bundled_pdf": "sources/papers/121-01/paper.pdf"
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "repo-readme",
+    "title": "OpenAI Math: README",
+    "url": "https://github.com/openai/math",
+    "date": "Состояние страницы при открытии 08.10.2026",
+    "role": "Первичный источник состава коллекции и авторского статуса проверки, не независимая рецензия",
+    "read": "README открыт. Прямое открытие показывает 719/372; поисковый кэш иногда ещё показывает 722. Локальный снимок имеет приоритет для инвентаризации."
+  },
+  {
+    "id": "repo-history",
+    "title": "OpenAI Math: история исправлений",
+    "url": "https://github.com/openai/math/blob/main/history.md",
+    "date": "Запись 07.10.2026; проверено 08.10.2026",
+    "role": "Первичное уведомление об отзывах, исправлениях и заявленной формализации",
+    "read": "Прочитана запись об ошибке знака, трёх отзывах, 14 ремонтах доказательств, 13 обновлениях ссылок и 300/719 top-line результатов. Единица top-line не отождествляется с числом файлов Lean."
+  },
+  {
+    "id": "crouzeix-scalar",
+    "title": "Lorist, Schwenninger — A solution to Crouzeix’s conjecture",
+    "url": "https://arxiv.org/html/2608.03841v2",
+    "date": "Версия v2, 17.08.2026; проверено 08.10.2026",
+    "role": "Независимый предшествующий скалярный результат; не проверка полного усиления OpenAI",
+    "read": "Просмотрены теорема 3 и замечание 3(iv), включая PDF-страницы 3 и 5. Полный аудит доказательства не выполнен."
+  },
+  {
+    "id": "scs-2026",
+    "title": "Chukhin, Kulikov, Mihajlin, Smal — A Tight Cycle-Cover Inequality for Shortest Common Superstring",
+    "url": "https://arxiv.org/abs/2609.27921",
+    "date": "v1; страница указывает 21.08.2026; проверено 08.10.2026",
+    "role": "Первичный препринт-предшественник: заявлены 7/3 для SCS и 3 для Greedy",
+    "read": "Аннотация и формулировка вклада; доказательство не проверено. Дата приведена по метаданным страницы, а не выведена из номера arXiv."
+  },
+  {
+    "id": "scs-greedy",
+    "title": "Shibata — Disproving the Greedy Superstring Conjecture",
+    "url": "https://arxiv.org/html/2609.01365v1",
+    "date": "v1, 01.09.2026; проверено 08.10.2026",
+    "role": "Первичный препринт о нижней границе 9/4 для Greedy; не рецензия работы 128",
+    "read": "Просмотрены аннотация и формулировка семейства контрпримеров, не полное доказательство."
+  },
+  {
+    "id": "scs-2023",
+    "title": "Englert, Matsakis, Veselý — ISAAC 2023, статья 29",
+    "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ISAAC.2023.29",
+    "date": "2023; проверено 08.10.2026",
+    "role": "Опубликованный исторический ориентир: 2,466 для SCS и 3,396 для Greedy",
+    "read": "Просмотрена первая страница PDF. Это не самая новая граница на дату анализа."
+  },
+  {
+    "id": "switch-stable",
+    "title": "Amanatidis, Kleer — Rapid mixing of the switch Markov chain for strongly stable degree sequences",
+    "url": "https://pure.uvt.nl/ws/portalfiles/portal/67115715/Rapid_mixing_of_the_switch_Markov_chain_for_strongly_stable_degree_sequences.pdf",
+    "date": "Работа 2020 года; найдено 08.10.2026",
+    "role": "Первичный предшественник с ограничениями на последовательности степеней",
+    "read": "Проверены библиографическая запись и область постановки по доступному поисковому фрагменту; полное доказательство не читалось."
+  },
+  {
+    "id": "dyer-tables",
+    "title": "Dyer, Kannan, Mount — Sampling contingency tables",
+    "url": "https://www.math.cmu.edu/users/af1p/Teaching/MCC17/Papers/contingency.pdf",
+    "date": "Работа 1997 года; найдено 08.10.2026",
+    "role": "Первичный исторический источник для таблиц в специальных режимах полей",
+    "read": "Постановка сопоставлена с введением 115; полный внешний текст не проверен."
+  },
+  {
+    "id": "scipy-tables",
+    "title": "SciPy: scipy.stats.random_table",
+    "url": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.random_table.html",
+    "date": "Документация открыта 08.10.2026",
+    "role": "Официальное описание другого закона — таблиц при условной независимости",
+    "read": "Прочитаны определение распределения и описание методов генерации. Не является доказательством равномерности по всем таблицам."
+  },
+  {
+    "id": "multiply-2021",
+    "title": "Harvey, van der Hoeven — Integer multiplication in time O(n log n)",
+    "url": "https://annals.math.princeton.edu/2021/193-2/p04",
+    "date": "Annals of Mathematics 193 (2021), 563–617; проверено 08.10.2026",
+    "role": "Опубликованный предшествующий результат в многоленточной битовой модели",
+    "read": "Открыты аннотация и библиографические данные. Независимая проверка улучшения из группы 109 не найдена."
+  }
+]

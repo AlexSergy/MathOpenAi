@@ -1,0 +1,15 @@
+{
+  "id": "115-01",
+  "group": "115",
+  "title": "Exact Uniform Sampling of Contingency Tables with Arbitrary Margins",
+  "pdf": "preprints/Exact-Uniform-Sampling-of-Contingency-Tables-with-Arbitrary-Margins-September-24-2026/main.pdf",
+  "folder": "preprints/Exact-Uniform-Sampling-of-Contingency-Tables-with-Arbitrary-Margins-September-24-2026",
+  "abstract_original": "We give an exact uniform sampler for nonnegative integer contingency tables with arbitrary prescribed margins. It terminates almost surely and has expected bit complexity polynomial in both dimensions and the binary length of the margins. No positivity, balance, sparsity, or fixed-dimension assumption is required.",
+  "archive": "math_research_07_of_08.zip",
+  "exists": true,
+  "source_line": 2829,
+  "coverage": "catalog_only",
+  "pages": 31,
+  "sha256": "be1d677ab515ceb23e7ee9fd369d705345ec0c9254585ac96ded3aa97732cd89",
+  "bundled_pdf": "sources/papers/115-01/main.pdf"
+}

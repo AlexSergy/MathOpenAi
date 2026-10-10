@@ -1,0 +1,15 @@
+{
+  "id": "032-01",
+  "group": "032",
+  "title": "The rational Hodge conjecture for CM abelian varieties",
+  "pdf": "preprints/The-rational-Hodge-conjecture-for-CM-abelian-varieties-October-6-2026/paper.pdf",
+  "folder": "preprints/The-rational-Hodge-conjecture-for-CM-abelian-varieties-October-6-2026",
+  "abstract_original": "We prove the rational Hodge conjecture for complex abelian varieties with complex multiplication: every rational Hodge class on such a variety is a rational linear combination of algebraic cycle classes. As consequences, we obtain the generalized Hodge conjecture for CM abelian varieties, the Tate conjecture for abelian varieties over finite fields, and the Hodge standard conjecture for abelian varieties in arbitrary characteristic.",
+  "archive": "math_research_01_of_08.zip",
+  "exists": true,
+  "source_line": 762,
+  "coverage": "catalog_only",
+  "pages": 53,
+  "sha256": "6e3e66a407773ad5091d4cb48d9b4dc55a69c58fb0948a88daf19f3bb21bf27b",
+  "bundled_pdf": "sources/papers/032-01/paper.pdf"
+}

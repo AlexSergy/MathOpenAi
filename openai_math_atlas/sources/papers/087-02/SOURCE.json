@@ -1,0 +1,15 @@
+{
+  "id": "087-02",
+  "group": "087",
+  "title": "The Mahler Conjecture for General Convex Bodies",
+  "pdf": "preprints/The-Mahler-Conjecture-for-General-Convex-Bodies-September-22-2026/paper.pdf",
+  "folder": "preprints/The-Mahler-Conjecture-for-General-Convex-Bodies-September-22-2026",
+  "abstract_original": "We resolve the Mahler conjecture for general convex bodies positively. For every convex body $`K\\subset\\mathbb R^n`$, n ≥ 1, with Santaló point $`s(K)`$, $`|K|\\,|(K-s(K))^\\circ|\\ge (n+1)^{n+1}/(n!)^2`$, with equality exactly for simplices.",
+  "archive": "math_research_02_of_08.zip",
+  "exists": true,
+  "source_line": 2143,
+  "coverage": "catalog_only",
+  "pages": 72,
+  "sha256": "f2d35982e2e7dfe55474092a7db4c558419fb892b412bf122b20d43b51229eff",
+  "bundled_pdf": "sources/papers/087-02/paper.pdf"
+}

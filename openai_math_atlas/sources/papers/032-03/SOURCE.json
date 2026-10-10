@@ -1,0 +1,15 @@
+{
+  "id": "032-03",
+  "group": "032",
+  "title": "Weil classes and Hodge classes on abelian powers",
+  "pdf": "preprints/Weil-classes-and-Hodge-classes-on-abelian-powers-October-6-2026/paper.pdf",
+  "folder": "preprints/Weil-classes-and-Hodge-classes-on-abelian-powers-October-6-2026",
+  "abstract_original": "We prove the rational Hodge conjecture in every codimension on every self-power of a complex abelian sixfold with an imaginary-quadratic action and a compatible polarization whose rational homological Hermitian form is hyperbolic of signature $`(3,3)`$. We also prove it in every codimension on every self-power of a complex abelian variety of dimension at most five admitting an imaginary-quadratic action. Both results include nonsimple varieties and special periods with additional endomorphisms. The proof uses the companion theorem on the rational Hodge conjecture for CM abelian varieties.",
+  "archive": "math_research_01_of_08.zip",
+  "exists": true,
+  "source_line": 780,
+  "coverage": "catalog_only",
+  "pages": 94,
+  "sha256": "c035db86eb70657344f5b43f1a1b9a39952b946a9dca4cde21cf047300dfdbde",
+  "bundled_pdf": "sources/papers/032-03/paper.pdf"
+}

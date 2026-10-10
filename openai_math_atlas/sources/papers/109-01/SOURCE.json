@@ -1,0 +1,15 @@
+{
+  "id": "109-01",
+  "group": "109",
+  "title": "Integer multiplication below n log n",
+  "pdf": "preprints/Integer-multiplication-below-n-log-n-September-23-2026/paper.pdf",
+  "folder": "preprints/Integer-multiplication-below-n-log-n-September-23-2026",
+  "abstract_original": "We give a deterministic algorithm that multiplies two n -bit integers in $`O(n(\\lg n)^{1-\\kappa})`$ worst-case time, with $`\\kappa=2^{-182}`$, on one fixed finite-alphabet Turing machine with a fixed finite number of one-dimensional tapes. The algorithm is exact for every input length and disproves the $`n\\log n`$ optimality conjecture of Schönhage and Strassen in this model.",
+  "archive": "math_research_07_of_08.zip",
+  "exists": true,
+  "source_line": 2702,
+  "coverage": "catalog_only",
+  "pages": 73,
+  "sha256": "834f644c3ce67932b9f7357d3615fb8fea4a7ff198d90e4f6883a15ba9df7129",
+  "bundled_pdf": "sources/papers/109-01/paper.pdf"
+}

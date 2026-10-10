@@ -1,0 +1,15 @@
+{
+  "id": "325-01",
+  "group": "325",
+  "title": "A direct proof of the complete Crouzeix inequality",
+  "pdf": "preprints/A-direct-proof-of-the-complete-Crouzeix-inequality-September-26-2026/paper.pdf",
+  "folder": "preprints/A-direct-proof-of-the-complete-Crouzeix-inequality-September-26-2026",
+  "abstract_original": "We give a direct proof of the sharp constant-two numerical-range inequality for matrix-valued polynomials in all finite base and coefficient dimensions. This resolves the complete Crouzeix conjecture in its matrix formulation, including matrices whose numerical ranges are points or line segments.",
+  "archive": "math_research_03_of_08.zip",
+  "exists": true,
+  "source_line": 7936,
+  "coverage": "catalog_only",
+  "pages": 12,
+  "sha256": "d9aa4ef2dccb1f044fdf78afd7a4c93f64e71bd60e53d0f0460329596f199bb6",
+  "bundled_pdf": "sources/papers/325-01/paper.pdf"
+}

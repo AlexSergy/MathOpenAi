@@ -1,0 +1,15 @@
+{
+  "id": "325-02",
+  "group": "325",
+  "title": "The complete Crouzeix theorem: optimal similarity and a common positive boundary representation",
+  "pdf": "preprints/The-complete-Crouzeix-theorem-September-23-2026/paper.pdf",
+  "folder": "preprints/The-complete-Crouzeix-theorem-September-23-2026",
+  "abstract_original": "We resolve the complete Crouzeix conjecture by proving the sharp constant-two numerical-range inequality for every bounded operator on a complex Hilbert space and every matrix-valued polynomial. No separability assumption is needed. The closure of the numerical range is a complete 2-spectral set, and the bound extends to finite matrix-valued functions holomorphic near that closure. For a finite matrix and a bounded convex domain containing its numerical range with regular real-analytic Jordan boundary, the optimal similarity making its conformal disk image contractive is attained with condition number at most two. For the similar matrix, one continuous positive boundary density of mass the identity represents the evaluation of every matrix-valued function holomorphic near the closed domain.",
+  "archive": "math_research_03_of_08.zip",
+  "exists": true,
+  "source_line": 7945,
+  "coverage": "catalog_only",
+  "pages": 22,
+  "sha256": "b5e37fffcae2be84577cdc73f8d0ae459ecc85da994dcf605c38f69539cc962b",
+  "bundled_pdf": "sources/papers/325-02/paper.pdf"
+}

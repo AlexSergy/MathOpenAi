@@ -1,0 +1,15 @@
+{
+  "id": "113-01",
+  "group": "113",
+  "title": "A Fully Polynomial Randomized Approximation Scheme for Perfect Matchings in General Graphs",
+  "pdf": "preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/main.pdf",
+  "folder": "preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026",
+  "abstract_original": "We give a fully polynomial randomized approximation scheme (FPRAS) for counting perfect matchings in arbitrary finite simple undirected graphs, resolving the general-graph perfect-matching approximation problem. The algorithm returns zero with certainty when no perfect matching exists. Otherwise, it achieves relative error ε with failure probability at most δ in worst-case bit time polynomial in the input length, $`\\varepsilon ^{-1}`$, and $`\\log\\delta^{-1}`$.",
+  "archive": "math_research_07_of_08.zip",
+  "exists": true,
+  "source_line": 2775,
+  "coverage": "catalog_only",
+  "pages": 45,
+  "sha256": "1510b15725ee7e92a6c543484c6c02ce7f26347a32c1a11cd66c5890b94c6de1",
+  "bundled_pdf": "sources/papers/113-01/main.pdf"
+}

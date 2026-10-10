@@ -1,0 +1,15 @@
+{
+  "id": "110-01",
+  "group": "110",
+  "title": "Squared-logarithmic randomized k-server on arbitrary metrics",
+  "pdf": "preprints/Squared-logarithmic-randomized-k-server-on-arbitrary-metrics-September-24-2026/Squared-logarithmic-randomized-k-server-on-arbitrary-metrics-September-24-2026.pdf",
+  "folder": "preprints/Squared-logarithmic-randomized-k-server-on-arbitrary-metrics-September-24-2026",
+  "abstract_original": "We prove that randomized k -server has competitive ratio $`O((\\log(k+1))^2)`$ on every metric space against oblivious request sequences, matching the known worst-case lower bound. For each metric and initial configuration, one policy works for all finite request sequences, including on infinite and unbounded spaces. When the initial server positions are distinct, no additive term is needed.",
+  "archive": "math_research_07_of_08.zip",
+  "exists": true,
+  "source_line": 2718,
+  "coverage": "catalog_only",
+  "pages": 71,
+  "sha256": "db9f0de04f757cf331b18404e7816d1fdbcf4842d79266cfd40f51d69926969e",
+  "bundled_pdf": "sources/papers/110-01/Squared-logarithmic-randomized-k-server-on-arbitrary-metrics-September-24-2026.pdf"
+}

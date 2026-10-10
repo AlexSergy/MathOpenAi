@@ -1,0 +1,15 @@
+{
+  "id": "110-02",
+  "group": "110",
+  "title": "Uniform computation of the squared-logarithmic k-server bound",
+  "pdf": "preprints/Uniform-computation-of-the-squared-logarithmic-k-server-bound-September-24-2026/Uniform-computation-of-the-squared-logarithmic-k-server-bound-September-24-2026.pdf",
+  "folder": "preprints/Uniform-computation-of-the-squared-logarithmic-k-server-bound-September-24-2026",
+  "abstract_original": "We construct a uniform randomized k -server algorithm on finite rational metrics with competitive ratio $`O(\\log^2(k+1))`$ against oblivious request sequences. Preprocessing is polynomial in the input length, and per-request bit complexity is polynomial in that length and the binary request-counter length. The additive movement constant is finite and instance-dependent, but may be enormous. The construction uses the companion squared-logarithmic existence theorem.",
+  "archive": "math_research_07_of_08.zip",
+  "exists": true,
+  "source_line": 2727,
+  "coverage": "catalog_only",
+  "pages": 16,
+  "sha256": "2e665c0419f62ed427a64157dc31b6e3abf76b40810f0596d12ae5ef4ede8554",
+  "bundled_pdf": "sources/papers/110-02/Uniform-computation-of-the-squared-logarithmic-k-server-bound-September-24-2026.pdf"
+}

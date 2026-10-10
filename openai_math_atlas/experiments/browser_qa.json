@@ -1,0 +1,709 @@
+{
+  "file_scheme_test": "Both file:// and localhost HTTP navigation were attempted and blocked by the Chromium environment (ERR_BLOCKED_BY_ADMINISTRATOR). Functional/visual tests inject the actual HTML plus inlined local CSS/JS with Playwright set_content. Normal URL loading, links in a browser, and file:// origin behavior are NOT verified here. Local paths are checked separately on disk.",
+  "date": "2026-10-08",
+  "scope": "Browser behavior and small known mathematical baselines, NOT proofs or new algorithm implementations",
+  "tests": [
+    {
+      "name": "page:index.html",
+      "passed": true,
+      "detail": {
+        "title": "Атлас коллекции · Математический атлас",
+        "horizontal_overflow": false
+      }
+    },
+    {
+      "name": "page:inventory.html",
+      "passed": true,
+      "detail": {
+        "title": "Инвентаризация и охват · Математический атлас",
+        "horizontal_overflow": false
+      }
+    },
+    {
+      "name": "page:projects.html",
+      "passed": true,
+      "detail": {
+        "title": "Практические проекты · Математический атлас",
+        "horizontal_overflow": false
+      }
+    },
+    {
+      "name": "page:sources.html",
+      "passed": true,
+      "detail": {
+        "title": "Источники и внешняя сверка · Математический атлас",
+        "horizontal_overflow": false
+      }
+    },
+    {
+      "name": "page:verification.html",
+      "passed": true,
+      "detail": {
+        "title": "Что не подтверждено · Математический атлас",
+        "horizontal_overflow": false
+      }
+    },
+    {
+      "name": "page:deep/003.html",
+      "passed": true,
+      "detail": {
+        "title": "Полоса без нулей — не гипотеза Римана · Математический атлас",
+        "horizontal_overflow": false
+      }
+    },
+    {
+      "name": "page:deep/032.html",
+      "passed": true,
+      "detail": {
+        "title": "Гипотеза Ходжа для CM-абелевых многообразий · Математический атлас",
+        "horizontal_overflow": false
+      }
+    },
+    {
+      "name": "page:deep/087.html",
+      "passed": true,
+      "detail": {
+        "title": "Объём тела и его полярного: экстремумы Малера · Математический атлас",
+        "horizontal_overflow": false
+      }
+    },
+    {
+      "name": "page:deep/109.html",
+      "passed": true,
+      "detail": {
+        "title": "Умножение ниже n log n: улучшение, которое не видно на ноутбуке · Математический атлас",
+        "horizontal_overflow": false
+      }
+    },
+    {
+      "name": "page:deep/110.html",
+      "passed": true,
+      "detail": {
+        "title": "Онлайн-перемещение серверов: два логарифма и цена запуска · Математический атлас",
+        "horizontal_overflow": false
+      }
+    },
+    {
+      "name": "page:deep/113.html",
+      "passed": true,
+      "detail": {
+        "title": "Сколько существует совершенных паросочетаний? · Математический атлас",
+        "horizontal_overflow": false
+      }
+    },
+    {
+      "name": "page:deep/115.html",
+      "passed": true,
+      "detail": {
+        "title": "Таблицы с заданными суммами: что значит «равномерно» · Математический атлас",
+        "horizontal_overflow": false
+      }
+    },
+    {
+      "name": "page:deep/118.html",
+      "passed": true,
+      "detail": {
+        "title": "Упаковка: почему дробный план может обманывать · Математический атлас",
+        "horizontal_overflow": false
+      }
+    },
+    {
+      "name": "page:deep/121.html",
+      "passed": true,
+      "detail": {
+        "title": "Почти линейное edit distance: цена фиксированной точности · Математический атлас",
+        "horizontal_overflow": false
+      }
+    },
+    {
+      "name": "page:deep/124.html",
+      "passed": true,
+      "detail": {
+        "title": "Три машины: полиномиально не значит практически · Математический атлас",
+        "horizontal_overflow": false
+      }
+    },
+    {
+      "name": "page:deep/128.html",
+      "passed": true,
+      "detail": {
+        "title": "Короткая общая надстрока: новый алгоритм не равен Greedy · Математический атлас",
+        "horizontal_overflow": false
+      }
+    },
+    {
+      "name": "page:deep/131.html",
+      "passed": true,
+      "detail": {
+        "title": "Перемешивание графов без изменения степеней · Математический атлас",
+        "horizontal_overflow": false
+      }
+    },
+    {
+      "name": "page:deep/139.html",
+      "passed": true,
+      "detail": {
+        "title": "Выборка: мало запросов к оракулу, но сколько вычислений? · Математический атлас",
+        "horizontal_overflow": false
+      }
+    },
+    {
+      "name": "page:deep/325.html",
+      "passed": true,
+      "detail": {
+        "title": "Числовая область: что видит спектр и чего он не видит · Математический атлас",
+        "horizontal_overflow": false
+      }
+    },
+    {
+      "name": "catalog-initial-372",
+      "passed": true,
+      "detail": "Найдено семейств: 372 из 372 · рукописей: 719."
+    },
+    {
+      "name": "area-map-17",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "page-size-24",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "selected-14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unreviewed-358",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "scope-notes-242",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no-established-independent",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "withdrawn-three",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "search-131",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source-path-present",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tables-exact-enumeration",
+      "passed": true,
+      "detail": {
+        "n": 7,
+        "sumU": 0.9999999999999998,
+        "sumF": 1,
+        "center": 0.4
+      }
+    },
+    {
+      "name": "scs-12-vs-14",
+      "passed": true,
+      "detail": {
+        "strings": [
+          "BCCA",
+          "CAB",
+          "CACA",
+          "CBC",
+          "CCBBC"
+        ],
+        "exact": "CBCCBBCCACAB",
+        "greedy": "CBCCABCCBBCACA",
+        "steps": [
+          {
+            "i": 0,
+            "j": 1,
+            "ov": 2,
+            "merged": "BCCAB",
+            "a": "BCCA",
+            "b": "CAB"
+          },
+          {
+            "i": 2,
+            "j": 0,
+            "ov": 2,
+            "merged": "CBCCAB",
+            "a": "CBC",
+            "b": "BCCAB"
+          },
+          {
+            "i": 2,
+            "j": 0,
+            "ov": 1,
+            "merged": "CCBBCACA",
+            "a": "CCBBC",
+            "b": "CACA"
+          },
+          {
+            "i": 0,
+            "j": 1,
+            "ov": 0,
+            "merged": "CBCCABCCBBCACA",
+            "a": "CBCCAB",
+            "b": "CCBBCACA"
+          }
+        ],
+        "exactLength": 12,
+        "greedyLength": 14,
+        "covers": true
+      }
+    },
+    {
+      "name": "edit-known-and-unicode",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "schedule-valid-4-vs-5",
+      "passed": true,
+      "detail": {
+        "exact": 4,
+        "greedy": 5,
+        "valid": true
+      }
+    },
+    {
+      "name": "polar-family-constraints",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "polar-volume-invariance",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "switch-kernel-exact-row-symmetry",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "switch-tv-selected-start-crossing",
+      "passed": true,
+      "detail": {
+        "rows": true,
+        "symmetric": true,
+        "tv38": 0.24694531306127263,
+        "tv37": 0.25756568430520704,
+        "tv200": 0.00046182717574782227,
+        "mass": 1.000000000000003
+      }
+    },
+    {
+      "name": "sliders:087",
+      "passed": true,
+      "detail": {
+        "sliders": 2
+      }
+    },
+    {
+      "name": "sliders:109",
+      "passed": true,
+      "detail": {
+        "sliders": 1
+      }
+    },
+    {
+      "name": "sliders:115",
+      "passed": true,
+      "detail": {
+        "sliders": 1
+      }
+    },
+    {
+      "name": "sliders:121",
+      "passed": true,
+      "detail": {
+        "sliders": 1
+      }
+    },
+    {
+      "name": "sliders:124",
+      "passed": true,
+      "detail": {
+        "sliders": 1
+      }
+    },
+    {
+      "name": "sliders:131",
+      "passed": true,
+      "detail": {
+        "sliders": 1
+      }
+    },
+    {
+      "name": "sliders:325",
+      "passed": true,
+      "detail": {
+        "sliders": 2
+      }
+    },
+    {
+      "name": "mobile-no-overflow:index.html",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "mobile-no-overflow:projects.html",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "mobile-no-overflow:inventory.html",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "mobile-no-overflow:verification.html",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "mobile-no-overflow:deep/131.html",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "mobile-no-overflow:deep/115.html",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "mobile-no-overflow:deep/325.html",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "keyboard-skip-link",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "prefers-reduced-motion",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no-external-requests",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no-javascript-errors",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "authored-local-links-exist",
+      "passed": true,
+      "detail": {
+        "count": 445,
+        "missing": []
+      }
+    },
+    {
+      "name": "animation-play-and-pause",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "reduced-motion-stops-animation",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "single-step-remains-usable",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "errors": [],
+  "network_requests": [],
+  "browser": "144.0.7559.96",
+  "computed_browser_results": {
+    "tables": {
+      "n": 7,
+      "sumU": 0.9999999999999998,
+      "sumF": 1,
+      "center": 0.4
+    },
+    "scs": {
+      "strings": [
+        "BCCA",
+        "CAB",
+        "CACA",
+        "CBC",
+        "CCBBC"
+      ],
+      "exact": "CBCCBBCCACAB",
+      "greedy": "CBCCABCCBBCACA",
+      "steps": [
+        {
+          "i": 0,
+          "j": 1,
+          "ov": 2,
+          "merged": "BCCAB",
+          "a": "BCCA",
+          "b": "CAB"
+        },
+        {
+          "i": 2,
+          "j": 0,
+          "ov": 2,
+          "merged": "CBCCAB",
+          "a": "CBC",
+          "b": "BCCAB"
+        },
+        {
+          "i": 2,
+          "j": 0,
+          "ov": 1,
+          "merged": "CCBBCACA",
+          "a": "CCBBC",
+          "b": "CACA"
+        },
+        {
+          "i": 0,
+          "j": 1,
+          "ov": 0,
+          "merged": "CBCCABCCBBCACA",
+          "a": "CBCCAB",
+          "b": "CCBBCACA"
+        }
+      ],
+      "exactLength": 12,
+      "greedyLength": 14,
+      "covers": true
+    },
+    "edit": 3,
+    "unicode": 1,
+    "schedule": {
+      "exact": 4,
+      "greedy": 5,
+      "valid": true
+    },
+    "polars": [
+      {
+        "c": 0,
+        "s": -1,
+        "prod": 8,
+        "valid": true
+      },
+      {
+        "c": 0,
+        "s": -0.4,
+        "prod": 8,
+        "valid": true
+      },
+      {
+        "c": 0,
+        "s": 0,
+        "prod": 8,
+        "valid": true
+      },
+      {
+        "c": 0,
+        "s": 0.7,
+        "prod": 8,
+        "valid": true
+      },
+      {
+        "c": 0,
+        "s": 1,
+        "prod": 8,
+        "valid": true
+      },
+      {
+        "c": 0.1,
+        "s": -1,
+        "prod": 8.37894736842105,
+        "valid": true
+      },
+      {
+        "c": 0.1,
+        "s": -0.4,
+        "prod": 8.378947368421054,
+        "valid": true
+      },
+      {
+        "c": 0.1,
+        "s": 0,
+        "prod": 8.378947368421054,
+        "valid": true
+      },
+      {
+        "c": 0.1,
+        "s": 0.7,
+        "prod": 8.378947368421054,
+        "valid": true
+      },
+      {
+        "c": 0.1,
+        "s": 1,
+        "prod": 8.378947368421052,
+        "valid": true
+      },
+      {
+        "c": 0.35,
+        "s": -1,
+        "prod": 9.1030303030303,
+        "valid": true
+      },
+      {
+        "c": 0.35,
+        "s": -0.4,
+        "prod": 9.103030303030302,
+        "valid": true
+      },
+      {
+        "c": 0.35,
+        "s": 0,
+        "prod": 9.103030303030303,
+        "valid": true
+      },
+      {
+        "c": 0.35,
+        "s": 0.7,
+        "prod": 9.103030303030303,
+        "valid": true
+      },
+      {
+        "c": 0.35,
+        "s": 1,
+        "prod": 9.103030303030302,
+        "valid": true
+      },
+      {
+        "c": 0.5,
+        "s": -1,
+        "prod": 9.333333333333332,
+        "valid": true
+      },
+      {
+        "c": 0.5,
+        "s": -0.4,
+        "prod": 9.333333333333332,
+        "valid": true
+      },
+      {
+        "c": 0.5,
+        "s": 0,
+        "prod": 9.333333333333332,
+        "valid": true
+      },
+      {
+        "c": 0.5,
+        "s": 0.7,
+        "prod": 9.333333333333332,
+        "valid": true
+      },
+      {
+        "c": 0.5,
+        "s": 1,
+        "prod": 9.333333333333332,
+        "valid": true
+      },
+      {
+        "c": 0.9,
+        "s": -1,
+        "prod": 8.654545454545456,
+        "valid": true
+      },
+      {
+        "c": 0.9,
+        "s": -0.4,
+        "prod": 8.654545454545454,
+        "valid": true
+      },
+      {
+        "c": 0.9,
+        "s": 0,
+        "prod": 8.654545454545454,
+        "valid": true
+      },
+      {
+        "c": 0.9,
+        "s": 0.7,
+        "prod": 8.654545454545454,
+        "valid": true
+      },
+      {
+        "c": 0.9,
+        "s": 1,
+        "prod": 8.654545454545456,
+        "valid": true
+      },
+      {
+        "c": 1,
+        "s": -1,
+        "prod": 8,
+        "valid": true
+      },
+      {
+        "c": 1,
+        "s": -0.4,
+        "prod": 8,
+        "valid": true
+      },
+      {
+        "c": 1,
+        "s": 0,
+        "prod": 8,
+        "valid": true
+      },
+      {
+        "c": 1,
+        "s": 0.7,
+        "prod": 8,
+        "valid": true
+      },
+      {
+        "c": 1,
+        "s": 1,
+        "prod": 8,
+        "valid": true
+      }
+    ],
+    "switch": {
+      "rows": true,
+      "symmetric": true,
+      "tv38": 0.24694531306127263,
+      "tv37": 0.25756568430520704,
+      "tv200": 0.00046182717574782227,
+      "mass": 1.000000000000003
+    }
+  },
+  "external_requests_count": 0,
+  "local_link_audit": {
+    "checked": 445,
+    "missing": []
+  },
+  "all_passed": true,
+  "static_file_mode_design_check": {
+    "fetch_calls": false,
+    "xhr_calls": false,
+    "module_imports": false,
+    "mandatory_remote_assets": false,
+    "data_loading": "classic relative script assets/data.js; no JSON fetch",
+    "caveat": "Design inspection, not a successful file-origin browser test."
+  }
+}

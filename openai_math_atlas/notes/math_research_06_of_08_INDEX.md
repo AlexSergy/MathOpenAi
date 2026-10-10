@@ -1,0 +1,91 @@
+# Архив 6 из 8
+
+Это самостоятельный ZIP. Распакуйте все архивы в одну папку; повторяющийся context/ одинаков.
+
+Библиотека Lean и история Git исключены. Метаданные формализации не заменяют проверку доказательств.
+
+| Область | Группа каталога | Папка |
+|---|---|---|
+| Probability and statistical mechanics | 220 | `preprints/Directional-transience-implies-ballisticity-September-23-2026/` |
+| Probability and statistical mechanics | 221 | `preprints/The-Mezard-Parisi-formula-for-diluted-spin-glasses-September-23-2026/` |
+| Probability and statistical mechanics | 222 | `preprints/Microscopic-jamming-in-the-negative-spherical-perceptron-September-24-2026/` |
+| Probability and statistical mechanics | 222 | `preprints/The-free-energy-of-the-Ising-random-perceptron-September-24-2026/` |
+| Probability and statistical mechanics | 222 | `preprints/The-free-energy-of-the-spherical-random-perceptron-September-24-2026/` |
+| Probability and statistical mechanics | 222 | `preprints/The-spherical-perceptron-with-bi-orthogonally-invariant-disorder-September-24-2026/` |
+| Probability and statistical mechanics | 223 | `preprints/Conformal-Limits-of-Critical-Square-Lattice-Random-Cluster-Interfaces-October-5-2026/` |
+| Probability and statistical mechanics | 223 | `preprints/Natural-Occupation-Measures-for-Critical-Square-Lattice-FK-Interfaces-October-5-2026/` |
+| Probability and statistical mechanics | 223 | `preprints/Quenched-SLE-Universality-for-Weakly-Disordered-FK-Ising-Interfaces-October-5-2026/` |
+| Probability and statistical mechanics | 223 | `preprints/Self-dual-random-cluster-interfaces-below-one-September-23-2026/` |
+| Probability and statistical mechanics | 223 | `preprints/Square-lattice-FK-interfaces-and-nested-loops-for-1-leq-q-lt-4-September-23-2026/` |
+| Probability and statistical mechanics | 223 | `preprints/Thermal-FK-Ising-interfaces-and-massive-SLE-October-5-2026/` |
+| Probability and statistical mechanics | 224 | `preprints/A-Pivotal-Amplitude-for-Voronoi-Percolation-from-Cardys-Formula-October-5-2026/` |
+| Probability and statistical mechanics | 224 | `preprints/Cardys-formula-for-critical-Poisson-Voronoi-percolation-September-23-2026/` |
+| Probability and statistical mechanics | 224 | `preprints/From-critical-crossings-to-quenched-near-critical-universality-in-Voronoi-percolation-October-5-2026/` |
+| Probability and statistical mechanics | 225 | `preprints/The-Gaussian-free-field-limit-of-the-balanced-six-vertex-model-with-variance-multiplier-1-over-arcsin-c-over-2-September-23-2026/` |
+| Probability and statistical mechanics | 226 | `preprints/The-curve-scaling-limit-of-half-plane-double-dimers-September-23-2026/` |
+| Probability and statistical mechanics | 227 | `preprints/A-spectral-gap-throughout-the-high-temperature-Sherrington-Kirkpatrick-phase-September-24-2026/` |
+| Probability and statistical mechanics | 227 | `preprints/A-typical-start-upper-bound-for-low-temperature-SK-Glauber-dynamics-September-24-2026/` |
+| Probability and statistical mechanics | 227 | `preprints/Critical-mixing-in-the-Sherrington-Kirkpatrick-model-September-25-2026/` |
+| Probability and statistical mechanics | 227 | `preprints/Critical-slowing-down-in-the-Sherrington-Kirkpatrick-model-September-24-2026/` |
+| Probability and statistical mechanics | 227 | `preprints/Cutoff-throughout-the-high-temperature-Sherrington-Kirkpatrick-phase-September-24-2026/` |
+| Probability and statistical mechanics | 227 | `preprints/Functional-universality-of-critical-SK-autocorrelations-October-5-2026/` |
+| Probability and statistical mechanics | 227 | `preprints/Stretched-exponential-barriers-for-typical-SK-initial-states-September-24-2026/` |
+| Probability and statistical mechanics | 227 | `preprints/Universality-of-critical-quench-autocorrelations-in-the-Sherrington-Kirkpatrick-model-October-5-2026/` |
+| Probability and statistical mechanics | 228 | `preprints/A-continuum-temperature-singularity-for-a-radial-pair-potential-September-24-2026/` |
+| Probability and statistical mechanics | 228 | `preprints/A-radial-continuum-phase-transition-with-algebraic-decay-September-24-2026/` |
+| Probability and statistical mechanics | 229 | `preprints/A-Capacity-Criterion-for-Four-State-Potts-Reconstruction-on-Trees-October-5-2026/` |
+| Probability and statistical mechanics | 229 | `preprints/The-Reconstruction-Threshold-for-the-Ferromagnetic-Four-State-Potts-Model-October-5-2026/` |
+| Probability and statistical mechanics | 229 | `preprints/The-exact-reconstruction-threshold-for-the-three-state-symmetric-channel-September-25-2026/` |
+| Probability and statistical mechanics | 230 | `preprints/An-exact-Hausdorff-gauge-for-SLE-September-25-2026/` |
+| Probability and statistical mechanics | 230 | `preprints/An-explicit-exact-Hausdorff-gauge-for-SLE-September-26-2026/` |
+| Probability and statistical mechanics | 231 | `preprints/The-free-uniform-spanning-forest-is-a-factor-of-IID-September-25-2026/` |
+| Probability and statistical mechanics | 232 | `preprints/Gaussian-free-field-limits-of-weighted-integer-Lipschitz-heights-October-6-2026/` |
+| Probability and statistical mechanics | 232 | `preprints/The-Gaussian-free-field-limit-of-integer-Lipschitz-heights-with-two-arc-boundary-data-October-6-2026/` |
+| Probability and statistical mechanics | 232 | `preprints/Uniform-real-Lipschitz-surfaces-on-the-triangular-lattice-October-6-2026/` |
+| Probability and statistical mechanics | 233 | `preprints/The-joint-scaling-limit-of-critical-Ashkin-Teller-currents-October-6-2026/` |
+| Probability and statistical mechanics | 234 | `preprints/All-temperature-pressure-for-orthogonally-invariant-Ising-spin-glasses-September-25-2026/` |
+| Probability and statistical mechanics | 235 | `preprints/A-Limiting-Satisfiability-Threshold-for-Every-Fixed-Clause-Size-September-25-2026/` |
+| Probability and statistical mechanics | 235 | `preprints/Computing-the-Random-3-SAT-Threshold-September-27-2026/` |
+| Probability and statistical mechanics | 235 | `preprints/Linear-Variance-of-the-Random-3-SAT-Hitting-Time-October-5-2026/` |
+| Probability and statistical mechanics | 235 | `preprints/Variance-of-the-Random-k-SAT-Hitting-Time-September-27-2026/` |
+| Probability and statistical mechanics | 236 | `preprints/The-sharp-factor-of-IID-threshold-for-the-free-Ising-model-on-regular-trees-September-26-2026/` |
+| Probability and statistical mechanics | 237 | `preprints/Cap-selected-amplitudes-and-triangle-chords-for-honeycomb-walks-September-26-2026/` |
+| Probability and statistical mechanics | 237 | `preprints/Critical-honeycomb-chords-with-prescribed-boundary-endpoints-September-26-2026/` |
+| Probability and statistical mechanics | 237 | `preprints/Critical-strip-crossing-mass-on-the-honeycomb-lattice-September-26-2026/` |
+| Probability and statistical mechanics | 237 | `preprints/Cylinder-amplitudes-and-logarithmic-bridge-length-windows-on-the-honeycomb-lattice-September-26-2026/` |
+| Probability and statistical mechanics | 237 | `preprints/Cylinder-loop-weights-and-planar-nesting-September-26-2026/` |
+| Probability and statistical mechanics | 237 | `preprints/Disk-transfer-representations-and-confined-bridge-mass-September-26-2026/` |
+| Probability and statistical mechanics | 237 | `preprints/Marked-polygon-correlations-and-one-arc-bounds-September-26-2026/` |
+| Probability and statistical mechanics | 237 | `preprints/Mass-and-covering-exponents-for-fixed-length-honeycomb-walks-September-26-2026/` |
+| Probability and statistical mechanics | 237 | `preprints/Polynomial-vacuum-representations-and-bridge-mass-for-honeycomb-walks-September-26-2026/` |
+| Probability and statistical mechanics | 237 | `preprints/Radial-transfer-estimates-and-polygon-length-laws-for-honeycomb-walks-September-26-2026/` |
+| Probability and statistical mechanics | 237 | `preprints/Renewal-and-changes-of-law-for-critical-honeycomb-walks-September-26-2026/` |
+| Probability and statistical mechanics | 237 | `preprints/Signed-cylinder-propagation-and-marked-polygons-on-the-honeycomb-lattice-September-26-2026/` |
+| Probability and statistical mechanics | 237 | `preprints/Uniform-marked-polygon-estimates-and-sharp-finite-bridge-moments-September-26-2026/` |
+| Probability and statistical mechanics | 238 | `preprints/A-strict-four-row-permanent-inequality-and-permutation-moments-September-26-2026/` |
+| Probability and statistical mechanics | 238 | `preprints/Compatibility-entropy-and-the-spectrum-of-a-Thorp-sweep-September-26-2026/` |
+| Probability and statistical mechanics | 238 | `preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/` |
+| Probability and statistical mechanics | 238 | `preprints/Conditional-information-under-deterministic-coordinate-sweeps-September-26-2026/` |
+| Probability and statistical mechanics | 238 | `preprints/Conditional-permutations-in-a-revealed-switching-environment-September-26-2026/` |
+| Probability and statistical mechanics | 238 | `preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/` |
+| Probability and statistical mechanics | 238 | `preprints/Optimal-order-mixing-of-the-Thorp-shuffle-September-26-2026/` |
+| Probability and statistical mechanics | 238 | `preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/` |
+| Probability and statistical mechanics | 238 | `preprints/Random-subspace-tests-and-trace-smoothing-for-coordinate-sweeps-September-26-2026/` |
+| Probability and statistical mechanics | 238 | `preprints/Routing-densities-and-representation-contraction-for-Thorp-sweeps-September-26-2026/` |
+| Probability and statistical mechanics | 238 | `preprints/Row-column-symmetry-and-contraction-of-coordinate-sweeps-September-26-2026/` |
+| Probability and statistical mechanics | 238 | `preprints/Signed-tensor-densities-and-diagram-budgets-for-coordinate-sweeps-September-26-2026/` |
+| Probability and statistical mechanics | 239 | `preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/` |
+| Probability and statistical mechanics | 239 | `preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/` |
+| Real and complex analysis | 071 | `preprints/Koebes-Circle-Domain-Conjecture-September-23-2026/` |
+| Real and complex analysis | 071 | `preprints/Removable-Boundaries-and-Rigidity-of-Circle-Domains-September-23-2026/` |
+| Real and complex analysis | 072 | `preprints/A-strict-inverse-first-power-bound-for-univalent-functions-September-24-2026/` |
+| Real and complex analysis | 072 | `preprints/Brennans-conjecture-and-sharp-inverse-square-integral-means-September-24-2026/` |
+| Real and complex analysis | 073 | `preprints/The-Falconer-distance-conjecture-in-all-dimensions-September-23-2026/` |
+| Real and complex analysis | 074 | `preprints/Every-four-dimensional-Kakeya-set-has-full-Hausdorff-dimension-September-24-2026/` |
+| Real and complex analysis | 074 | `preprints/The-Kakeya-maximal-conjecture-in-three-dimensions-September-23-2026/` |
+| Real and complex analysis | 075 | `preprints/Almost-everywhere-Fourier-convergence-in-L-log-L-September-23-2026/` |
+| Real and complex analysis | 076 | `preprints/Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026/` |
+| Real and complex analysis | 076 | `preprints/Nearly-minimal-maxima-and-positive-minima-of-Littlewood-polynomials-October-5-2026/` |
+| Real and complex analysis | 076 | `preprints/Ultraflat-real-Littlewood-polynomials-October-5-2026/` |
+| Real and complex analysis | 077 | `preprints/Diagonal-Fourier-extension-for-positively-curved-surfaces-in-three-dimensions-September-24-2026/` |
+| Real and complex analysis | 077 | `preprints/Elliptic-capacity-propagation-and-Fourier-restriction-to-the-sphere-September-24-2026/` |
